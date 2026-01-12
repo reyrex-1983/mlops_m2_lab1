@@ -1,0 +1,35 @@
+# Global settings
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+  external_labels:
+    monitor: 'iris-api-monitor'
+
+# Alerting rules
+alerting:
+  alertmanagers:
+    - static_configs:
+        - targets: []
+
+# Load rules once and periodically evaluate them
+rule_files:
+  # - "alerting_rules.yml"
+
+# Scrape configurations
+scrape_configs:
+  # Prometheus itself
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']
+
+  # Iris API (FastAPI server)
+  - job_name: 'iris-api'
+    scrape_interval: 5s
+    static_configs:
+      - targets: ['api:8000']
+    metrics_path: '/metrics'
+
+  # MLFlow server (if metrics exposed)
+  - job_name: 'mlflow'
+    static_configs:
+      - targets: ['mlflow:5000']

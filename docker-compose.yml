@@ -1,0 +1,96 @@
+version: '3.8'
+
+services:
+  # MLFlow tracking server
+  mlflow:
+    image: python:3.14-slim
+    working_dir: /app
+    volumes:
+      - ./mlruns:/app/mlruns
+      - ./train.py:/app/train.py
+      - ./serve.py:/app/serve.py
+      - ./src:/app/src
+      - ./data:/app/data
+    environment:
+      PYTHONUNBUFFERED: 1
+      MLFLOW_TRACKING_URI: file:./mlruns
+    ports:
+      - "5000:5000"
+    command: >
+      bash -c "pip install -q mlflow scikit-learn pydantic fastapi uvicorn prometheus-client &&
+               mlflow ui --host 0.0.0.0 --port 5000"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+
+  # FastAPI server with Prometheus metrics
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./mlruns:/app/mlruns
+      - ./data:/app/data
+    environment:
+      PYTHONUNBUFFERED: 1
+      MLFLOW_TRACKING_URI: file:./mlruns
+    command: ["python", "serve.py"]
+    depends_on:
+      mlflow:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 5s
+
+  # Optional: Prometheus for metrics collection
+  prometheus:
+    image: prom/prometheus:latest
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+      - prometheus_data:/prometheus
+    command:
+      - "--config.file=/etc/prometheus/prometheus.yml"
+      - "--storage.tsdb.path=/prometheus"
+    depends_on:
+      - api
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9090/-/healthy"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Optional: Grafana for visualization
+  grafana:
+    image: grafana/grafana:latest
+    ports:
+      - "3000:3000"
+    environment:
+      GF_SECURITY_ADMIN_PASSWORD: admin
+      GF_USERS_ALLOW_SIGN_UP: false
+    volumes:
+      - grafana_data:/var/lib/grafana
+    depends_on:
+      - prometheus
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+volumes:
+  prometheus_data:
+  grafana_data:
+
+networks:
+  default:
+    driver: bridge
