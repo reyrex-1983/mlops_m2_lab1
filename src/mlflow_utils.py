@@ -42,7 +42,12 @@ def get_latest_run(experiment_name: str) -> Optional[Run]:
         order_by=["start_time DESC"],
         max_results=1
     )
-    return runs[0] if runs else None
+    # mlflow.search_runs returns a DataFrame, convert to list of Run objects
+    if not runs.empty:
+        client = mlflow.tracking.MlflowClient()
+        run_id = runs.iloc[0]['run_id']
+        return client.get_run(run_id)
+    return None
 
 def log_params_and_metrics(params: Dict[str, Any], metrics: Dict[str, float]) -> None:
     """Log parameters and metrics to MLFlow"""
