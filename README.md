@@ -100,6 +100,7 @@ python serve.py
 - 📖 ReDoc: http://localhost:8000/redoc
 - 💚 Health: http://localhost:8000/health
 - 🔮 Predict: POST http://localhost:8000/predict
+- 📊 Metrics: http://localhost:8000/metrics
 
 ### 5. Make Predictions
 
@@ -165,6 +166,52 @@ setup_mlflow_tracking(MLFLOW_TRACKING_URI, MLFLOW_EXPERIMENT_NAME)
 latest_run = get_latest_run(MLFLOW_EXPERIMENT_NAME)
 ```
 
+### `prometheus_metrics.py`
+Prometheus monitoring and observability:
+```python
+from src.prometheus_metrics import record_prediction, request_count
+
+# Automatically tracked by middleware:
+# - request_count: API request counters
+# - request_duration: Request latency histograms
+# - model_loaded: Model loading state
+# - api_health: API health status
+```
+
+## 📊 Prometheus Monitoring
+
+The API exposes Prometheus metrics for observability:
+
+**Metrics Endpoint**: `GET http://localhost:8000/metrics`
+
+**Available Metrics**:
+- `iris_api_requests_total` - Total API requests by method, endpoint, status
+- `iris_api_request_duration_seconds` - Request latency distribution
+- `iris_predictions_total` - Total predictions by class
+- `iris_prediction_confidence` - Confidence score distribution
+- `iris_model_loaded` - Model loading state (1=loaded, 0=not)
+- `iris_model_load_duration_seconds` - Model loading time
+- `iris_api_health` - API health status
+- `iris_api_active_requests` - Currently active requests
+
+**Example**: Get all iris metrics
+```bash
+curl http://localhost:8000/metrics | grep "^iris_"
+```
+
+**Prometheus Integration** (optional):
+```yaml
+# prometheus.yml
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: 'iris-api'
+    static_configs:
+      - targets: ['localhost:8000']
+    metrics_path: '/metrics'
+```
+
 ## 📊 MLFlow Dashboard
 
 The MLFlow UI provides:
@@ -194,6 +241,7 @@ The MLFlow UI provides:
 | Experiment Tracking | MLFlow |
 | API Framework | FastAPI |
 | ASGI Server | Uvicorn |
+| Monitoring | Prometheus Client |
 | Data Validation | Pydantic |
 | Python Version | 3.14+ |
 
@@ -258,6 +306,7 @@ git push origin main
 - [x] Model training with metrics
 - [x] MLFlow experiment tracking
 - [x] FastAPI server with Swagger UI
+- [x] Prometheus monitoring
 - [x] Modular source code
 - [x] Centralized configuration
 - [x] Git repository
@@ -281,6 +330,7 @@ By working through this project, you'll understand:
 - ✅ ML pipeline design and best practices
 - ✅ Experiment tracking with MLFlow
 - ✅ Model serving with FastAPI
+- ✅ Observability with Prometheus metrics
 - ✅ Modular Python architecture
 - ✅ Git version control for ML projects
 - ✅ Production-ready code organization
