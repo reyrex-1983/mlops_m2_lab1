@@ -2,13 +2,15 @@
 Clean FastAPI Server for Model Serving
 Loads trained model from MLFlow and serves predictions
 Uses source modules for configuration and model utilities
+Includes Prometheus metrics for monitoring
 """
 
 import logging
-from fastapi import FastAPI
+from fastapi import FastAPI, Request
 from pydantic import BaseModel
 import uvicorn
 import mlflow.sklearn
+from prometheus_client import generate_latest, CONTENT_TYPE_LATEST
 
 from src.config import (
     MLFLOW_TRACKING_URI,
@@ -20,6 +22,10 @@ from src.config import (
 )
 from src.model_utils import make_prediction
 from src.mlflow_utils import get_latest_run
+from src.prometheus_metrics import (
+    model_loaded, api_health, record_prediction, 
+    request_duration, request_count, model_load_duration
+)
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(message)s')
@@ -53,6 +59,8 @@ class PredictionResponse(BaseModel):
 async def startup():
     """Load model from MLFlow on startup"""
     global MODEL
+    import time
+    start_time = time.time()
     try:
         mlflow.set_tracking_uri(MLFLOW_TRACKING_URI)
         
@@ -68,12 +76,44 @@ async def startup():
         model_uri = f"runs:/{run_id}/iris-model"
         MODEL = mlflow.sklearn.load_model(model_uri)
         
+        # Record metrics
+        load_time = time.time() - start_time
+        model_load_duration.observe(load_time)
+        model_loaded.set(1)
+        api_health.set(1)
+        
         logger.info(f"✅ Model loaded successfully from run: {run_id}")
         logger.info(f"📂 Model type: {type(MODEL).__name__}")
+        logger.info(f"⏱️  Model load time: {load_time:.2f}s")
     
     except Exception as e:
         logger.error(f"❌ Failed to load model: {e}")
+        model_loaded.set(0)
+        api_health.set(0)
         raise
+
+
+# Middleware for tracking request metrics
+@app.middleware("http")
+async def track_metrics(request: Request, call_next):
+    """Track request metrics using Prometheus"""
+    start_time = time.time()
+    response = await call_next(request)
+    process_time = time.time() - start_time
+    
+    # Record metrics
+    endpoint = request.url.path
+    request_duration.labels(endpoint=endpoint).observe(process_time)
+    request_count.labels(
+        method=request.method, 
+        endpoint=endpoint, 
+        status=response.status_code
+    ).inc()
+    
+    return response
+
+
+import time
 
 # Health check endpoint
 @app.get("/health")
@@ -114,6 +154,10 @@ async def predict(features: IrisFeatures):
     # Make prediction using model_utils
     pred_class, confidence = make_prediction(MODEL, feature_list)
     
+    # Record prediction metrics
+    species = CLASS_NAMES[pred_class]
+    record_prediction(species, confidence)
+    
     # Get species name from class index
     species = CLASS_NAMES[pred_class]
     
@@ -121,6 +165,12 @@ async def predict(features: IrisFeatures):
         prediction=species,
         confidence=confidence
     )
+
+# Prometheus metrics endpoint
+@app.get("/metrics")
+async def metrics():
+    """Prometheus metrics endpoint"""
+    return generate_latest()
 
 # Root endpoint
 @app.get("/")
@@ -131,7 +181,8 @@ async def root():
         "version": "1.0.0",
         "docs": "/docs",
         "health": "/health",
-        "predict": "/predict"
+        "predict": "/predict",
+        "metrics": "/metrics"
     }
 
 if __name__ == "__main__":
