@@ -170,7 +170,8 @@ async def predict(features: IrisFeatures):
 @app.get("/metrics")
 async def metrics():
     """Prometheus metrics endpoint"""
-    return generate_latest()
+    from fastapi.responses import Response
+    return Response(content=generate_latest(), media_type=CONTENT_TYPE_LATEST)
 
 # Root endpoint
 @app.get("/")

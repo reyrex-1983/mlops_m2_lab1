@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rejur/Documents/Lilaq/Training/MLOps/Module 1/mlops_m2_lab1/mlruns/327667224824638060/106ae5f2cf9f4d48a15fc40c146bded4/artifacts
+end_time: 1767949735757
+entry_point_name: ''
+experiment_id: '327667224824638060'
+lifecycle_stage: active
+run_id: 106ae5f2cf9f4d48a15fc40c146bded4
+run_name: iris-random-forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767949734197
+status: 3
+tags: []
+user_id: rejur

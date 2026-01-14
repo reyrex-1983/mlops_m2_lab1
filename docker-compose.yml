@@ -3,7 +3,7 @@ version: '3.8'
 services:
   # MLFlow tracking server
   mlflow:
-    image: python:3.14-slim
+    image: python:3.11-slim
     working_dir: /app
     volumes:
       - ./mlruns:/app/mlruns
@@ -15,7 +15,7 @@ services:
       PYTHONUNBUFFERED: 1
       MLFLOW_TRACKING_URI: file:./mlruns
     ports:
-      - "5000:5000"
+      - "5001:5000"
     command: >
       bash -c "pip install -q mlflow scikit-learn pydantic fastapi uvicorn prometheus-client &&
                mlflow ui --host 0.0.0.0 --port 5000"
@@ -32,7 +32,7 @@ services:
       context: .
       dockerfile: Dockerfile
     ports:
-      - "8000:8000"
+      - "8001:8000"
     volumes:
       - ./mlruns:/app/mlruns
       - ./data:/app/data
@@ -40,9 +40,7 @@ services:
       PYTHONUNBUFFERED: 1
       MLFLOW_TRACKING_URI: file:./mlruns
     command: ["python", "serve.py"]
-    depends_on:
-      mlflow:
-        condition: service_healthy
+    depends_on: []
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
       interval: 30s
@@ -54,7 +52,7 @@ services:
   prometheus:
     image: prom/prometheus:latest
     ports:
-      - "9090:9090"
+      - "9091:9090"
     volumes:
       - ./prometheus.yml:/etc/prometheus/prometheus.yml
       - prometheus_data:/prometheus
@@ -73,12 +71,14 @@ services:
   grafana:
     image: grafana/grafana:latest
     ports:
-      - "3000:3000"
+      - "3001:3000"
     environment:
       GF_SECURITY_ADMIN_PASSWORD: admin
       GF_USERS_ALLOW_SIGN_UP: false
     volumes:
       - grafana_data:/var/lib/grafana
+      - ./grafana/provisioning/datasources:/etc/grafana/provisioning/datasources
+      - ./grafana/provisioning/dashboards:/etc/grafana/provisioning/dashboards
     depends_on:
       - prometheus
     healthcheck:

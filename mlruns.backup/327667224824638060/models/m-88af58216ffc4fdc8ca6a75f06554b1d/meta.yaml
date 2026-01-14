@@ -1,0 +1,10 @@
+artifact_location: file:///Users/rejur/Documents/Lilaq/Training/MLOps/Module 1/mlops_m2_lab1/mlruns/327667224824638060/models/m-88af58216ffc4fdc8ca6a75f06554b1d/artifacts
+creation_timestamp: 1768207639765
+experiment_id: '327667224824638060'
+last_updated_timestamp: 1768207641160
+model_id: m-88af58216ffc4fdc8ca6a75f06554b1d
+model_type: null
+name: iris-model
+source_run_id: 6f44eb2db8f644e2b792cb5ea8533d66
+status: 2
+status_message: null
