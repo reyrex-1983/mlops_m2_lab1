@@ -1,0 +1,19 @@
+{
+  "total_samples": 4998,
+  "train_samples": 3998,
+  "test_samples": 1000,
+  "n_features": 4,
+  "n_classes": 3,
+  "feature_names": [
+    "sepal_length",
+    "sepal_width",
+    "petal_length",
+    "petal_width"
+  ],
+  "class_names": [
+    "setosa",
+    "versicolor",
+    "virginica"
+  ],
+  "description": "Extended Iris dataset with realistic class distributions"
+}

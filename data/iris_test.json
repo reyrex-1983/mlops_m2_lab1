@@ -1,0 +1,8002 @@
+[
+  {
+    "sepal_length": 5.35,
+    "sepal_width": 3.66,
+    "petal_length": 1.61,
+    "petal_width": 0.32,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.23,
+    "sepal_width": 3.44,
+    "petal_length": 1.37,
+    "petal_width": 0.2,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.97,
+    "sepal_width": 3.23,
+    "petal_length": 4.26,
+    "petal_width": 1.28,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.44,
+    "sepal_width": 2.5,
+    "petal_length": 4.91,
+    "petal_width": 1.43,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.74,
+    "sepal_width": 2.51,
+    "petal_length": 4.31,
+    "petal_width": 1.18,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.21,
+    "sepal_width": 3.58,
+    "petal_length": 1.26,
+    "petal_width": 0.3,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.32,
+    "sepal_width": 3.11,
+    "petal_length": 4.19,
+    "petal_width": 0.85,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.1,
+    "sepal_width": 3.11,
+    "petal_length": 1.72,
+    "petal_width": 0.33,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.78,
+    "sepal_width": 2.97,
+    "petal_length": 1.68,
+    "petal_width": 0.09,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.06,
+    "sepal_width": 2.78,
+    "petal_length": 3.91,
+    "petal_width": 1.04,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.18,
+    "sepal_width": 2.93,
+    "petal_length": 6.54,
+    "petal_width": 2.23,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.72,
+    "sepal_width": 2.67,
+    "petal_length": 5.71,
+    "petal_width": 1.83,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.53,
+    "sepal_width": 2.92,
+    "petal_length": 5.5,
+    "petal_width": 2.6,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.52,
+    "sepal_width": 2.64,
+    "petal_length": 1.37,
+    "petal_width": 0.44,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.23,
+    "sepal_width": 2.55,
+    "petal_length": 4.82,
+    "petal_width": 1.38,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.8,
+    "sepal_width": 2.75,
+    "petal_length": 5.78,
+    "petal_width": 1.2,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.74,
+    "sepal_width": 3.53,
+    "petal_length": 1.5,
+    "petal_width": 0.31,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.19,
+    "sepal_width": 2.99,
+    "petal_length": 5.02,
+    "petal_width": 1.86,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.96,
+    "sepal_width": 2.81,
+    "petal_length": 4.89,
+    "petal_width": 1.62,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.1,
+    "sepal_width": 3.29,
+    "petal_length": 5.95,
+    "petal_width": 1.79,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.54,
+    "sepal_width": 2.76,
+    "petal_length": 6.13,
+    "petal_width": 2.44,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.16,
+    "sepal_width": 3.51,
+    "petal_length": 1.66,
+    "petal_width": 0.25,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.64,
+    "sepal_width": 3.25,
+    "petal_length": 1.51,
+    "petal_width": 0.3,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.52,
+    "sepal_width": 3.43,
+    "petal_length": 3.31,
+    "petal_width": 1.1,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.59,
+    "sepal_width": 2.67,
+    "petal_length": 1.18,
+    "petal_width": 0.46,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.86,
+    "sepal_width": 2.93,
+    "petal_length": 6.09,
+    "petal_width": 2.2,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.18,
+    "sepal_width": 3.72,
+    "petal_length": 1.41,
+    "petal_width": 0.45,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.11,
+    "sepal_width": 3.12,
+    "petal_length": 5.39,
+    "petal_width": 2.18,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.67,
+    "sepal_width": 2.44,
+    "petal_length": 5.92,
+    "petal_width": 1.93,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.97,
+    "sepal_width": 3.16,
+    "petal_length": 5.11,
+    "petal_width": 2.02,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.58,
+    "sepal_width": 3.11,
+    "petal_length": 4.57,
+    "petal_width": 1.19,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.11,
+    "sepal_width": 3.55,
+    "petal_length": 1.37,
+    "petal_width": 0.5,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.5,
+    "sepal_width": 2.69,
+    "petal_length": 4.32,
+    "petal_width": 1.1,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.4,
+    "sepal_width": 2.94,
+    "petal_length": 4.72,
+    "petal_width": 1.35,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.78,
+    "sepal_width": 3.19,
+    "petal_length": 1.38,
+    "petal_width": 0.3,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.21,
+    "sepal_width": 3.6,
+    "petal_length": 1.38,
+    "petal_width": 0.25,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.51,
+    "sepal_width": 3.4,
+    "petal_length": 5.32,
+    "petal_width": 2.05,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.31,
+    "sepal_width": 2.97,
+    "petal_length": 4.27,
+    "petal_width": 1.75,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.66,
+    "sepal_width": 3.32,
+    "petal_length": 1.29,
+    "petal_width": 0.16,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.73,
+    "sepal_width": 3.51,
+    "petal_length": 5.84,
+    "petal_width": 2.17,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.67,
+    "sepal_width": 3.52,
+    "petal_length": 1.53,
+    "petal_width": 0.17,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.79,
+    "sepal_width": 2.75,
+    "petal_length": 4.22,
+    "petal_width": 1.53,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.54,
+    "sepal_width": 2.95,
+    "petal_length": 4.74,
+    "petal_width": 2.7,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.65,
+    "sepal_width": 2.84,
+    "petal_length": 4.94,
+    "petal_width": 1.47,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.18,
+    "sepal_width": 2.98,
+    "petal_length": 4.72,
+    "petal_width": 1.62,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.58,
+    "sepal_width": 3.53,
+    "petal_length": 1.63,
+    "petal_width": 0.31,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.09,
+    "sepal_width": 3.07,
+    "petal_length": 4.53,
+    "petal_width": 1.89,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.21,
+    "sepal_width": 2.9,
+    "petal_length": 5.81,
+    "petal_width": 2.02,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.3,
+    "sepal_width": 3.62,
+    "petal_length": 1.33,
+    "petal_width": 0.35,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.78,
+    "sepal_width": 3.4,
+    "petal_length": 1.53,
+    "petal_width": 0.35,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.29,
+    "sepal_width": 2.85,
+    "petal_length": 1.54,
+    "petal_width": 0.24,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.43,
+    "sepal_width": 3.39,
+    "petal_length": 1.83,
+    "petal_width": 0.26,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.17,
+    "sepal_width": 2.97,
+    "petal_length": 5.73,
+    "petal_width": 1.57,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.87,
+    "sepal_width": 2.56,
+    "petal_length": 5.14,
+    "petal_width": 1.38,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.19,
+    "sepal_width": 2.6,
+    "petal_length": 4.24,
+    "petal_width": 2.04,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.76,
+    "sepal_width": 2.57,
+    "petal_length": 5.13,
+    "petal_width": 1.9,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.98,
+    "sepal_width": 2.36,
+    "petal_length": 5.89,
+    "petal_width": 2.47,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.42,
+    "sepal_width": 3.19,
+    "petal_length": 6.44,
+    "petal_width": 1.32,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.37,
+    "sepal_width": 3.9,
+    "petal_length": 1.55,
+    "petal_width": 0.44,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.45,
+    "sepal_width": 3.62,
+    "petal_length": 1.76,
+    "petal_width": 0.29,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.59,
+    "sepal_width": 3.07,
+    "petal_length": 4.98,
+    "petal_width": 1.12,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.95,
+    "sepal_width": 2.94,
+    "petal_length": 1.56,
+    "petal_width": 0.27,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.71,
+    "sepal_width": 2.97,
+    "petal_length": 4.97,
+    "petal_width": 1.16,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.06,
+    "sepal_width": 2.8,
+    "petal_length": 4.27,
+    "petal_width": 1.11,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.89,
+    "sepal_width": 3.72,
+    "petal_length": 1.65,
+    "petal_width": 0.31,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.83,
+    "sepal_width": 2.93,
+    "petal_length": 3.7,
+    "petal_width": 1.19,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.93,
+    "sepal_width": 2.62,
+    "petal_length": 3.84,
+    "petal_width": 0.93,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.37,
+    "sepal_width": 3.56,
+    "petal_length": 1.53,
+    "petal_width": 0.33,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.5,
+    "sepal_width": 3.12,
+    "petal_length": 1.62,
+    "petal_width": 0.37,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.02,
+    "sepal_width": 3.26,
+    "petal_length": 1.39,
+    "petal_width": 0.31,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.3,
+    "sepal_width": 3.39,
+    "petal_length": 1.46,
+    "petal_width": 0.37,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.93,
+    "sepal_width": 2.74,
+    "petal_length": 6.66,
+    "petal_width": 1.92,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.57,
+    "sepal_width": 2.17,
+    "petal_length": 5.64,
+    "petal_width": 2.31,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.77,
+    "sepal_width": 2.64,
+    "petal_length": 5.58,
+    "petal_width": 2.44,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.17,
+    "sepal_width": 3.19,
+    "petal_length": 5.46,
+    "petal_width": 1.41,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.72,
+    "sepal_width": 3.22,
+    "petal_length": 1.69,
+    "petal_width": 0.48,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.75,
+    "sepal_width": 2.64,
+    "petal_length": 4.31,
+    "petal_width": 1.09,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.48,
+    "sepal_width": 2.24,
+    "petal_length": 5.04,
+    "petal_width": 1.9,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.23,
+    "sepal_width": 3.47,
+    "petal_length": 6.19,
+    "petal_width": 2.24,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.51,
+    "sepal_width": 3.32,
+    "petal_length": 1.6,
+    "petal_width": 0.13,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.62,
+    "sepal_width": 2.41,
+    "petal_length": 4.53,
+    "petal_width": 0.94,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.09,
+    "sepal_width": 3.55,
+    "petal_length": 4.08,
+    "petal_width": 1.32,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.84,
+    "sepal_width": 3.19,
+    "petal_length": 4.96,
+    "petal_width": 1.99,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.98,
+    "sepal_width": 3.24,
+    "petal_length": 1.42,
+    "petal_width": 0.46,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.74,
+    "sepal_width": 2.29,
+    "petal_length": 4.3,
+    "petal_width": 1.36,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.8,
+    "sepal_width": 2.99,
+    "petal_length": 1.19,
+    "petal_width": 0.26,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.21,
+    "sepal_width": 2.78,
+    "petal_length": 4.12,
+    "petal_width": 1.42,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.05,
+    "sepal_width": 2.57,
+    "petal_length": 4.77,
+    "petal_width": 1.67,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.57,
+    "sepal_width": 2.65,
+    "petal_length": 1.56,
+    "petal_width": 0.34,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.81,
+    "sepal_width": 2.63,
+    "petal_length": 5.27,
+    "petal_width": 1.85,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.67,
+    "sepal_width": 3.07,
+    "petal_length": 5.44,
+    "petal_width": 2.6,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.73,
+    "sepal_width": 2.41,
+    "petal_length": 4.37,
+    "petal_width": 1.35,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.38,
+    "sepal_width": 2.53,
+    "petal_length": 1.53,
+    "petal_width": 0.31,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.29,
+    "sepal_width": 2.63,
+    "petal_length": 4.31,
+    "petal_width": 1.18,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.35,
+    "sepal_width": 3.58,
+    "petal_length": 2.07,
+    "petal_width": 0.3,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.71,
+    "sepal_width": 3.78,
+    "petal_length": 1.68,
+    "petal_width": 0.22,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.41,
+    "sepal_width": 3.92,
+    "petal_length": 1.13,
+    "petal_width": 0.47,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.05,
+    "sepal_width": 2.23,
+    "petal_length": 4.97,
+    "petal_width": 1.11,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.38,
+    "sepal_width": 3.17,
+    "petal_length": 5.93,
+    "petal_width": 2.18,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.93,
+    "sepal_width": 3.33,
+    "petal_length": 1.59,
+    "petal_width": 0.41,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.4,
+    "sepal_width": 3.29,
+    "petal_length": 1.45,
+    "petal_width": 0.22,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.53,
+    "sepal_width": 2.62,
+    "petal_length": 4.71,
+    "petal_width": 1.69,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.99,
+    "sepal_width": 3.73,
+    "petal_length": 1.48,
+    "petal_width": 0.24,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.01,
+    "sepal_width": 2.91,
+    "petal_length": 5.57,
+    "petal_width": 1.72,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.89,
+    "sepal_width": 3.67,
+    "petal_length": 1.6,
+    "petal_width": 0.53,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.87,
+    "sepal_width": 2.44,
+    "petal_length": 5.32,
+    "petal_width": 1.82,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.69,
+    "sepal_width": 3.03,
+    "petal_length": 5.25,
+    "petal_width": 2.31,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.07,
+    "sepal_width": 3.35,
+    "petal_length": 1.37,
+    "petal_width": 0.07,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.74,
+    "sepal_width": 2.72,
+    "petal_length": 4.68,
+    "petal_width": 1.53,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.19,
+    "sepal_width": 3.67,
+    "petal_length": 5.15,
+    "petal_width": 2.16,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.68,
+    "sepal_width": 3.43,
+    "petal_length": 1.57,
+    "petal_width": 0.28,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.65,
+    "sepal_width": 3.38,
+    "petal_length": 5.9,
+    "petal_width": 1.98,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.43,
+    "sepal_width": 3.1,
+    "petal_length": 5.07,
+    "petal_width": 2.04,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.31,
+    "sepal_width": 2.68,
+    "petal_length": 5.78,
+    "petal_width": 2.17,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 8.13,
+    "sepal_width": 3.03,
+    "petal_length": 6.03,
+    "petal_width": 1.84,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.57,
+    "sepal_width": 3.65,
+    "petal_length": 5.22,
+    "petal_width": 2.31,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.08,
+    "sepal_width": 2.27,
+    "petal_length": 4.17,
+    "petal_width": 1.67,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.44,
+    "sepal_width": 2.24,
+    "petal_length": 4.17,
+    "petal_width": 1.46,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.7,
+    "sepal_width": 3.48,
+    "petal_length": 3.81,
+    "petal_width": 1.09,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.45,
+    "sepal_width": 4.26,
+    "petal_length": 1.54,
+    "petal_width": 0.27,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.71,
+    "sepal_width": 3.0,
+    "petal_length": 6.0,
+    "petal_width": 1.69,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.16,
+    "sepal_width": 3.41,
+    "petal_length": 1.65,
+    "petal_width": 0.37,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.41,
+    "sepal_width": 4.0,
+    "petal_length": 1.62,
+    "petal_width": 0.44,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.31,
+    "sepal_width": 3.1,
+    "petal_length": 5.54,
+    "petal_width": 2.68,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.7,
+    "sepal_width": 3.7,
+    "petal_length": 1.46,
+    "petal_width": 0.26,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.78,
+    "sepal_width": 3.33,
+    "petal_length": 5.78,
+    "petal_width": 1.92,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.0,
+    "sepal_width": 2.81,
+    "petal_length": 4.54,
+    "petal_width": 1.79,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.11,
+    "sepal_width": 3.55,
+    "petal_length": 1.5,
+    "petal_width": 0.36,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.32,
+    "sepal_width": 3.74,
+    "petal_length": 1.76,
+    "petal_width": 0.37,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.42,
+    "sepal_width": 3.15,
+    "petal_length": 4.58,
+    "petal_width": 1.09,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.06,
+    "sepal_width": 3.27,
+    "petal_length": 1.74,
+    "petal_width": 0.28,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.03,
+    "sepal_width": 3.37,
+    "petal_length": 6.1,
+    "petal_width": 2.32,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.24,
+    "sepal_width": 3.54,
+    "petal_length": 1.61,
+    "petal_width": 0.19,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.85,
+    "sepal_width": 2.82,
+    "petal_length": 4.64,
+    "petal_width": 0.92,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.66,
+    "sepal_width": 3.11,
+    "petal_length": 4.18,
+    "petal_width": 2.34,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.73,
+    "sepal_width": 3.25,
+    "petal_length": 1.62,
+    "petal_width": 0.24,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.64,
+    "sepal_width": 3.32,
+    "petal_length": 1.79,
+    "petal_width": 0.25,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.59,
+    "sepal_width": 2.37,
+    "petal_length": 5.25,
+    "petal_width": 2.33,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.6,
+    "sepal_width": 3.3,
+    "petal_length": 1.26,
+    "petal_width": 0.11,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.62,
+    "sepal_width": 3.2,
+    "petal_length": 1.3,
+    "petal_width": 0.39,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.1,
+    "sepal_width": 2.5,
+    "petal_length": 5.32,
+    "petal_width": 2.09,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.85,
+    "sepal_width": 3.04,
+    "petal_length": 1.27,
+    "petal_width": 0.2,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.78,
+    "sepal_width": 3.13,
+    "petal_length": 1.42,
+    "petal_width": 0.35,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.43,
+    "sepal_width": 2.95,
+    "petal_length": 5.17,
+    "petal_width": 2.01,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.49,
+    "sepal_width": 3.0,
+    "petal_length": 5.12,
+    "petal_width": 1.67,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.13,
+    "sepal_width": 2.85,
+    "petal_length": 5.38,
+    "petal_width": 1.77,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.94,
+    "sepal_width": 2.74,
+    "petal_length": 3.75,
+    "petal_width": 1.21,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.67,
+    "sepal_width": 2.92,
+    "petal_length": 4.26,
+    "petal_width": 1.37,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.96,
+    "sepal_width": 3.34,
+    "petal_length": 1.43,
+    "petal_width": 0.2,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.21,
+    "sepal_width": 3.65,
+    "petal_length": 1.31,
+    "petal_width": 0.32,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.71,
+    "sepal_width": 3.04,
+    "petal_length": 4.55,
+    "petal_width": 1.22,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.18,
+    "sepal_width": 3.26,
+    "petal_length": 1.09,
+    "petal_width": 0.28,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.18,
+    "sepal_width": 2.65,
+    "petal_length": 3.65,
+    "petal_width": 1.18,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.68,
+    "sepal_width": 2.51,
+    "petal_length": 4.44,
+    "petal_width": 1.27,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.12,
+    "sepal_width": 3.27,
+    "petal_length": 4.34,
+    "petal_width": 1.29,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.08,
+    "sepal_width": 3.27,
+    "petal_length": 4.21,
+    "petal_width": 1.34,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.93,
+    "sepal_width": 2.85,
+    "petal_length": 1.58,
+    "petal_width": 0.3,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.04,
+    "sepal_width": 2.77,
+    "petal_length": 5.62,
+    "petal_width": 1.34,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.48,
+    "sepal_width": 3.67,
+    "petal_length": 5.34,
+    "petal_width": 1.63,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.62,
+    "sepal_width": 3.2,
+    "petal_length": 5.02,
+    "petal_width": 2.25,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.0,
+    "sepal_width": 3.92,
+    "petal_length": 1.57,
+    "petal_width": 0.1,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.52,
+    "sepal_width": 3.37,
+    "petal_length": 5.24,
+    "petal_width": 1.86,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.05,
+    "sepal_width": 4.07,
+    "petal_length": 1.37,
+    "petal_width": 0.25,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.79,
+    "sepal_width": 2.81,
+    "petal_length": 6.19,
+    "petal_width": 1.93,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.97,
+    "sepal_width": 3.59,
+    "petal_length": 1.43,
+    "petal_width": 0.21,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.77,
+    "sepal_width": 2.88,
+    "petal_length": 4.04,
+    "petal_width": 1.44,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.15,
+    "sepal_width": 3.35,
+    "petal_length": 6.47,
+    "petal_width": 1.85,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.8,
+    "sepal_width": 2.88,
+    "petal_length": 4.54,
+    "petal_width": 1.25,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.76,
+    "sepal_width": 3.42,
+    "petal_length": 4.17,
+    "petal_width": 1.11,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.44,
+    "sepal_width": 3.65,
+    "petal_length": 1.54,
+    "petal_width": 0.22,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.45,
+    "sepal_width": 2.95,
+    "petal_length": 4.14,
+    "petal_width": 1.37,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.67,
+    "sepal_width": 3.15,
+    "petal_length": 4.48,
+    "petal_width": 1.48,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.33,
+    "sepal_width": 2.87,
+    "petal_length": 1.51,
+    "petal_width": 0.33,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.32,
+    "sepal_width": 3.51,
+    "petal_length": 1.33,
+    "petal_width": 0.3,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.66,
+    "sepal_width": 3.88,
+    "petal_length": 6.6,
+    "petal_width": 1.78,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.66,
+    "sepal_width": 2.89,
+    "petal_length": 4.23,
+    "petal_width": 1.57,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.68,
+    "sepal_width": 3.22,
+    "petal_length": 1.59,
+    "petal_width": 0.37,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.71,
+    "sepal_width": 3.45,
+    "petal_length": 1.95,
+    "petal_width": 0.2,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.25,
+    "sepal_width": 2.3,
+    "petal_length": 4.54,
+    "petal_width": 1.4,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.04,
+    "sepal_width": 4.22,
+    "petal_length": 1.62,
+    "petal_width": 0.39,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.38,
+    "sepal_width": 2.73,
+    "petal_length": 6.79,
+    "petal_width": 1.85,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.75,
+    "sepal_width": 2.78,
+    "petal_length": 5.17,
+    "petal_width": 1.85,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.6,
+    "sepal_width": 2.77,
+    "petal_length": 5.3,
+    "petal_width": 1.34,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.82,
+    "sepal_width": 2.83,
+    "petal_length": 4.56,
+    "petal_width": 1.46,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.85,
+    "sepal_width": 3.36,
+    "petal_length": 1.52,
+    "petal_width": 0.37,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.44,
+    "sepal_width": 3.46,
+    "petal_length": 1.71,
+    "petal_width": 0.28,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.58,
+    "sepal_width": 2.46,
+    "petal_length": 4.15,
+    "petal_width": 1.34,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.95,
+    "sepal_width": 2.51,
+    "petal_length": 4.39,
+    "petal_width": 1.03,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.01,
+    "sepal_width": 3.09,
+    "petal_length": 4.52,
+    "petal_width": 1.48,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.51,
+    "sepal_width": 2.79,
+    "petal_length": 5.66,
+    "petal_width": 2.14,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.26,
+    "sepal_width": 3.34,
+    "petal_length": 4.58,
+    "petal_width": 1.7,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.84,
+    "sepal_width": 3.13,
+    "petal_length": 5.57,
+    "petal_width": 2.16,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.99,
+    "sepal_width": 3.19,
+    "petal_length": 1.43,
+    "petal_width": 0.32,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.43,
+    "sepal_width": 2.85,
+    "petal_length": 1.29,
+    "petal_width": 0.4,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.26,
+    "sepal_width": 3.11,
+    "petal_length": 4.14,
+    "petal_width": 1.3,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.57,
+    "sepal_width": 3.32,
+    "petal_length": 4.5,
+    "petal_width": 1.19,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.47,
+    "sepal_width": 3.24,
+    "petal_length": 1.53,
+    "petal_width": 0.21,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.79,
+    "sepal_width": 2.99,
+    "petal_length": 6.08,
+    "petal_width": 1.95,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.82,
+    "sepal_width": 3.46,
+    "petal_length": 4.39,
+    "petal_width": 1.63,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.74,
+    "sepal_width": 3.08,
+    "petal_length": 5.38,
+    "petal_width": 1.77,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.89,
+    "sepal_width": 3.36,
+    "petal_length": 1.82,
+    "petal_width": 0.3,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.11,
+    "sepal_width": 3.41,
+    "petal_length": 5.04,
+    "petal_width": 2.07,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.39,
+    "sepal_width": 3.83,
+    "petal_length": 1.89,
+    "petal_width": 0.22,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.01,
+    "sepal_width": 2.55,
+    "petal_length": 6.18,
+    "petal_width": 1.79,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.14,
+    "sepal_width": 2.96,
+    "petal_length": 3.63,
+    "petal_width": 1.43,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.54,
+    "sepal_width": 2.85,
+    "petal_length": 4.19,
+    "petal_width": 1.19,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.03,
+    "sepal_width": 3.26,
+    "petal_length": 3.8,
+    "petal_width": 1.21,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 8.27,
+    "sepal_width": 3.32,
+    "petal_length": 6.03,
+    "petal_width": 1.59,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.51,
+    "sepal_width": 3.46,
+    "petal_length": 1.66,
+    "petal_width": 0.22,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.6,
+    "sepal_width": 3.43,
+    "petal_length": 1.34,
+    "petal_width": 0.23,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.5,
+    "sepal_width": 2.59,
+    "petal_length": 5.71,
+    "petal_width": 1.71,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.65,
+    "sepal_width": 3.71,
+    "petal_length": 1.59,
+    "petal_width": 0.44,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.69,
+    "sepal_width": 3.16,
+    "petal_length": 5.07,
+    "petal_width": 1.62,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.88,
+    "sepal_width": 2.59,
+    "petal_length": 6.22,
+    "petal_width": 2.22,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.23,
+    "sepal_width": 3.22,
+    "petal_length": 1.58,
+    "petal_width": 0.29,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.35,
+    "sepal_width": 3.39,
+    "petal_length": 1.54,
+    "petal_width": 0.46,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.47,
+    "sepal_width": 2.84,
+    "petal_length": 5.64,
+    "petal_width": 2.02,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.61,
+    "sepal_width": 2.25,
+    "petal_length": 5.17,
+    "petal_width": 1.62,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.52,
+    "sepal_width": 3.11,
+    "petal_length": 1.47,
+    "petal_width": 0.17,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.5,
+    "sepal_width": 3.18,
+    "petal_length": 4.27,
+    "petal_width": 0.91,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.34,
+    "sepal_width": 3.71,
+    "petal_length": 1.32,
+    "petal_width": 0.23,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.79,
+    "sepal_width": 3.74,
+    "petal_length": 1.77,
+    "petal_width": 0.15,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.87,
+    "sepal_width": 2.95,
+    "petal_length": 1.65,
+    "petal_width": 0.32,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.71,
+    "sepal_width": 2.5,
+    "petal_length": 4.22,
+    "petal_width": 1.4,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.58,
+    "sepal_width": 2.36,
+    "petal_length": 5.33,
+    "petal_width": 2.15,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.17,
+    "sepal_width": 2.9,
+    "petal_length": 4.58,
+    "petal_width": 2.35,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.34,
+    "sepal_width": 2.67,
+    "petal_length": 1.44,
+    "petal_width": 0.4,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.16,
+    "sepal_width": 3.6,
+    "petal_length": 5.39,
+    "petal_width": 2.05,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.88,
+    "sepal_width": 2.4,
+    "petal_length": 5.78,
+    "petal_width": 2.3,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.01,
+    "sepal_width": 2.96,
+    "petal_length": 5.47,
+    "petal_width": 2.07,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.1,
+    "sepal_width": 2.89,
+    "petal_length": 7.3,
+    "petal_width": 1.86,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.81,
+    "sepal_width": 3.09,
+    "petal_length": 3.94,
+    "petal_width": 1.39,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.14,
+    "sepal_width": 3.02,
+    "petal_length": 1.31,
+    "petal_width": 0.29,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.96,
+    "sepal_width": 2.58,
+    "petal_length": 4.34,
+    "petal_width": 2.31,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.11,
+    "sepal_width": 3.3,
+    "petal_length": 1.53,
+    "petal_width": 0.31,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.46,
+    "sepal_width": 3.74,
+    "petal_length": 1.39,
+    "petal_width": 0.29,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.16,
+    "sepal_width": 3.22,
+    "petal_length": 1.42,
+    "petal_width": 0.3,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.96,
+    "sepal_width": 2.36,
+    "petal_length": 4.87,
+    "petal_width": 0.92,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.36,
+    "sepal_width": 3.5,
+    "petal_length": 1.44,
+    "petal_width": 0.37,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.83,
+    "sepal_width": 3.27,
+    "petal_length": 3.92,
+    "petal_width": 1.33,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.36,
+    "sepal_width": 3.04,
+    "petal_length": 4.24,
+    "petal_width": 1.2,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.67,
+    "sepal_width": 3.28,
+    "petal_length": 1.68,
+    "petal_width": 0.24,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.02,
+    "sepal_width": 2.94,
+    "petal_length": 4.22,
+    "petal_width": 1.08,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.8,
+    "sepal_width": 2.62,
+    "petal_length": 5.52,
+    "petal_width": 2.01,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.45,
+    "sepal_width": 2.59,
+    "petal_length": 6.08,
+    "petal_width": 2.3,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.81,
+    "sepal_width": 2.59,
+    "petal_length": 6.0,
+    "petal_width": 2.24,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.1,
+    "sepal_width": 3.4,
+    "petal_length": 1.78,
+    "petal_width": 0.36,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.76,
+    "sepal_width": 2.86,
+    "petal_length": 4.23,
+    "petal_width": 1.21,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.68,
+    "sepal_width": 3.3,
+    "petal_length": 4.61,
+    "petal_width": 1.1,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.9,
+    "sepal_width": 3.39,
+    "petal_length": 4.9,
+    "petal_width": 1.75,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.61,
+    "sepal_width": 2.62,
+    "petal_length": 5.23,
+    "petal_width": 1.22,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.36,
+    "sepal_width": 2.56,
+    "petal_length": 5.58,
+    "petal_width": 2.07,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.69,
+    "sepal_width": 2.93,
+    "petal_length": 4.56,
+    "petal_width": 0.97,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 3.89,
+    "sepal_width": 3.81,
+    "petal_length": 1.42,
+    "petal_width": 0.52,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.98,
+    "sepal_width": 2.92,
+    "petal_length": 4.74,
+    "petal_width": 1.57,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.03,
+    "sepal_width": 3.68,
+    "petal_length": 6.63,
+    "petal_width": 2.42,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.03,
+    "sepal_width": 2.82,
+    "petal_length": 4.13,
+    "petal_width": 1.37,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.67,
+    "sepal_width": 2.93,
+    "petal_length": 4.29,
+    "petal_width": 1.58,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 8.16,
+    "sepal_width": 2.69,
+    "petal_length": 6.06,
+    "petal_width": 2.19,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.7,
+    "sepal_width": 2.98,
+    "petal_length": 5.26,
+    "petal_width": 1.7,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.81,
+    "sepal_width": 3.07,
+    "petal_length": 5.31,
+    "petal_width": 2.1,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.47,
+    "sepal_width": 3.38,
+    "petal_length": 5.82,
+    "petal_width": 2.09,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.86,
+    "sepal_width": 2.71,
+    "petal_length": 5.42,
+    "petal_width": 2.3,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.2,
+    "sepal_width": 3.43,
+    "petal_length": 1.68,
+    "petal_width": 0.41,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.95,
+    "sepal_width": 3.28,
+    "petal_length": 1.41,
+    "petal_width": 0.15,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.5,
+    "sepal_width": 3.08,
+    "petal_length": 3.94,
+    "petal_width": 1.16,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.61,
+    "sepal_width": 2.79,
+    "petal_length": 6.27,
+    "petal_width": 2.11,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.92,
+    "sepal_width": 3.27,
+    "petal_length": 4.54,
+    "petal_width": 1.66,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.52,
+    "sepal_width": 3.05,
+    "petal_length": 6.55,
+    "petal_width": 2.11,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.24,
+    "sepal_width": 2.81,
+    "petal_length": 5.69,
+    "petal_width": 1.85,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.14,
+    "sepal_width": 3.26,
+    "petal_length": 1.57,
+    "petal_width": 0.37,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.38,
+    "sepal_width": 3.74,
+    "petal_length": 1.45,
+    "petal_width": 0.35,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.05,
+    "sepal_width": 3.63,
+    "petal_length": 1.32,
+    "petal_width": 0.42,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.05,
+    "sepal_width": 3.09,
+    "petal_length": 5.47,
+    "petal_width": 2.11,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.63,
+    "sepal_width": 2.39,
+    "petal_length": 3.56,
+    "petal_width": 1.73,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.57,
+    "sepal_width": 3.56,
+    "petal_length": 1.26,
+    "petal_width": 0.33,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.19,
+    "sepal_width": 2.83,
+    "petal_length": 5.15,
+    "petal_width": 1.32,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.95,
+    "sepal_width": 3.34,
+    "petal_length": 5.98,
+    "petal_width": 1.85,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.39,
+    "sepal_width": 2.81,
+    "petal_length": 4.83,
+    "petal_width": 1.26,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.85,
+    "sepal_width": 3.0,
+    "petal_length": 4.32,
+    "petal_width": 1.36,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.43,
+    "sepal_width": 3.08,
+    "petal_length": 1.6,
+    "petal_width": 0.39,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.99,
+    "sepal_width": 2.9,
+    "petal_length": 4.34,
+    "petal_width": 1.01,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.62,
+    "sepal_width": 2.77,
+    "petal_length": 6.8,
+    "petal_width": 2.64,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.49,
+    "sepal_width": 2.99,
+    "petal_length": 5.74,
+    "petal_width": 1.55,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.86,
+    "sepal_width": 2.46,
+    "petal_length": 4.92,
+    "petal_width": 1.62,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.06,
+    "sepal_width": 2.83,
+    "petal_length": 4.24,
+    "petal_width": 1.27,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.11,
+    "sepal_width": 2.65,
+    "petal_length": 4.96,
+    "petal_width": 2.24,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.48,
+    "sepal_width": 2.48,
+    "petal_length": 4.83,
+    "petal_width": 1.01,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.04,
+    "sepal_width": 2.72,
+    "petal_length": 4.96,
+    "petal_width": 1.66,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.51,
+    "sepal_width": 2.93,
+    "petal_length": 1.56,
+    "petal_width": 0.28,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.27,
+    "sepal_width": 3.44,
+    "petal_length": 4.04,
+    "petal_width": 1.23,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.86,
+    "sepal_width": 3.55,
+    "petal_length": 1.56,
+    "petal_width": 0.28,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.41,
+    "sepal_width": 2.89,
+    "petal_length": 6.82,
+    "petal_width": 1.98,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.75,
+    "sepal_width": 2.87,
+    "petal_length": 5.65,
+    "petal_width": 2.0,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.9,
+    "sepal_width": 3.14,
+    "petal_length": 6.11,
+    "petal_width": 1.35,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.93,
+    "sepal_width": 2.88,
+    "petal_length": 4.15,
+    "petal_width": 1.18,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.65,
+    "sepal_width": 2.85,
+    "petal_length": 3.69,
+    "petal_width": 1.25,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.62,
+    "sepal_width": 3.34,
+    "petal_length": 1.18,
+    "petal_width": 0.37,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.98,
+    "sepal_width": 2.75,
+    "petal_length": 4.53,
+    "petal_width": 1.35,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.7,
+    "sepal_width": 2.94,
+    "petal_length": 5.95,
+    "petal_width": 2.25,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.71,
+    "sepal_width": 3.33,
+    "petal_length": 1.57,
+    "petal_width": 0.2,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.6,
+    "sepal_width": 2.85,
+    "petal_length": 4.57,
+    "petal_width": 1.3,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.02,
+    "sepal_width": 3.1,
+    "petal_length": 4.41,
+    "petal_width": 1.2,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.99,
+    "sepal_width": 2.58,
+    "petal_length": 5.11,
+    "petal_width": 1.94,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.96,
+    "sepal_width": 3.08,
+    "petal_length": 1.34,
+    "petal_width": 0.23,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.71,
+    "sepal_width": 3.86,
+    "petal_length": 1.74,
+    "petal_width": 0.28,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.43,
+    "sepal_width": 3.18,
+    "petal_length": 1.59,
+    "petal_width": 0.4,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.62,
+    "sepal_width": 3.27,
+    "petal_length": 6.08,
+    "petal_width": 2.36,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.9,
+    "sepal_width": 3.08,
+    "petal_length": 4.65,
+    "petal_width": 1.92,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.41,
+    "sepal_width": 3.94,
+    "petal_length": 1.24,
+    "petal_width": 0.35,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.19,
+    "sepal_width": 3.81,
+    "petal_length": 1.23,
+    "petal_width": 0.27,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.17,
+    "sepal_width": 2.96,
+    "petal_length": 1.31,
+    "petal_width": 0.23,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.87,
+    "sepal_width": 2.94,
+    "petal_length": 5.71,
+    "petal_width": 2.0,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.62,
+    "sepal_width": 2.17,
+    "petal_length": 4.0,
+    "petal_width": 1.3,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.46,
+    "sepal_width": 2.87,
+    "petal_length": 6.55,
+    "petal_width": 1.91,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.11,
+    "sepal_width": 3.63,
+    "petal_length": 1.55,
+    "petal_width": 0.37,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.18,
+    "sepal_width": 2.38,
+    "petal_length": 3.22,
+    "petal_width": 1.54,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.01,
+    "sepal_width": 2.67,
+    "petal_length": 4.18,
+    "petal_width": 1.02,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.37,
+    "sepal_width": 2.98,
+    "petal_length": 4.89,
+    "petal_width": 2.01,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.36,
+    "sepal_width": 3.61,
+    "petal_length": 5.09,
+    "petal_width": 1.5,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.77,
+    "sepal_width": 2.69,
+    "petal_length": 4.68,
+    "petal_width": 1.15,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.11,
+    "sepal_width": 2.9,
+    "petal_length": 4.21,
+    "petal_width": 1.17,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.19,
+    "sepal_width": 3.51,
+    "petal_length": 1.55,
+    "petal_width": 0.32,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.43,
+    "sepal_width": 3.19,
+    "petal_length": 6.25,
+    "petal_width": 1.95,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.67,
+    "sepal_width": 3.16,
+    "petal_length": 6.37,
+    "petal_width": 2.21,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.05,
+    "sepal_width": 2.94,
+    "petal_length": 3.75,
+    "petal_width": 1.53,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.68,
+    "sepal_width": 3.33,
+    "petal_length": 6.24,
+    "petal_width": 1.99,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.33,
+    "sepal_width": 3.26,
+    "petal_length": 5.09,
+    "petal_width": 1.25,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.13,
+    "sepal_width": 3.17,
+    "petal_length": 5.78,
+    "petal_width": 2.55,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.55,
+    "sepal_width": 3.4,
+    "petal_length": 1.41,
+    "petal_width": 0.36,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.63,
+    "sepal_width": 3.15,
+    "petal_length": 3.78,
+    "petal_width": 1.19,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.87,
+    "sepal_width": 3.04,
+    "petal_length": 3.93,
+    "petal_width": 1.1,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.79,
+    "sepal_width": 3.3,
+    "petal_length": 1.44,
+    "petal_width": 0.29,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.59,
+    "sepal_width": 2.32,
+    "petal_length": 5.81,
+    "petal_width": 1.92,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.04,
+    "sepal_width": 3.06,
+    "petal_length": 4.71,
+    "petal_width": 1.34,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.59,
+    "sepal_width": 2.55,
+    "petal_length": 4.34,
+    "petal_width": 1.22,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.71,
+    "sepal_width": 3.68,
+    "petal_length": 6.96,
+    "petal_width": 1.96,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.62,
+    "sepal_width": 3.2,
+    "petal_length": 5.8,
+    "petal_width": 1.93,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.88,
+    "sepal_width": 2.57,
+    "petal_length": 4.94,
+    "petal_width": 2.16,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.35,
+    "sepal_width": 2.88,
+    "petal_length": 6.03,
+    "petal_width": 2.16,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.97,
+    "sepal_width": 2.6,
+    "petal_length": 3.66,
+    "petal_width": 0.74,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.46,
+    "sepal_width": 2.23,
+    "petal_length": 3.27,
+    "petal_width": 1.01,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.15,
+    "sepal_width": 3.05,
+    "petal_length": 1.17,
+    "petal_width": 0.26,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.53,
+    "sepal_width": 3.29,
+    "petal_length": 5.12,
+    "petal_width": 1.98,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.08,
+    "sepal_width": 2.35,
+    "petal_length": 5.08,
+    "petal_width": 1.7,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.76,
+    "sepal_width": 2.93,
+    "petal_length": 4.29,
+    "petal_width": 1.35,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.66,
+    "sepal_width": 3.24,
+    "petal_length": 5.59,
+    "petal_width": 2.3,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.96,
+    "sepal_width": 3.2,
+    "petal_length": 5.92,
+    "petal_width": 1.99,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.09,
+    "sepal_width": 2.76,
+    "petal_length": 3.72,
+    "petal_width": 1.42,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.24,
+    "sepal_width": 3.03,
+    "petal_length": 4.9,
+    "petal_width": 2.25,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.53,
+    "sepal_width": 2.28,
+    "petal_length": 6.47,
+    "petal_width": 1.88,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.54,
+    "sepal_width": 2.49,
+    "petal_length": 4.35,
+    "petal_width": 1.05,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.49,
+    "sepal_width": 3.19,
+    "petal_length": 5.49,
+    "petal_width": 2.21,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.66,
+    "sepal_width": 2.89,
+    "petal_length": 1.61,
+    "petal_width": 0.28,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.0,
+    "sepal_width": 2.98,
+    "petal_length": 3.39,
+    "petal_width": 1.21,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.32,
+    "sepal_width": 2.43,
+    "petal_length": 5.7,
+    "petal_width": 1.98,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.65,
+    "sepal_width": 3.28,
+    "petal_length": 4.7,
+    "petal_width": 1.12,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.1,
+    "sepal_width": 2.34,
+    "petal_length": 4.59,
+    "petal_width": 1.54,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.9,
+    "sepal_width": 2.43,
+    "petal_length": 1.65,
+    "petal_width": 0.22,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.83,
+    "sepal_width": 3.29,
+    "petal_length": 1.48,
+    "petal_width": 0.3,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.25,
+    "sepal_width": 2.87,
+    "petal_length": 4.52,
+    "petal_width": 1.28,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.89,
+    "sepal_width": 3.46,
+    "petal_length": 5.58,
+    "petal_width": 1.93,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.16,
+    "sepal_width": 3.06,
+    "petal_length": 4.63,
+    "petal_width": 1.1,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.42,
+    "sepal_width": 2.73,
+    "petal_length": 4.59,
+    "petal_width": 0.75,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.25,
+    "sepal_width": 2.86,
+    "petal_length": 5.62,
+    "petal_width": 1.96,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.0,
+    "sepal_width": 2.99,
+    "petal_length": 4.86,
+    "petal_width": 1.09,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.28,
+    "sepal_width": 2.59,
+    "petal_length": 4.49,
+    "petal_width": 1.29,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.95,
+    "sepal_width": 3.93,
+    "petal_length": 1.64,
+    "petal_width": 0.37,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.58,
+    "sepal_width": 3.61,
+    "petal_length": 1.39,
+    "petal_width": 0.21,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.8,
+    "sepal_width": 4.01,
+    "petal_length": 1.18,
+    "petal_width": 0.34,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.88,
+    "sepal_width": 2.66,
+    "petal_length": 4.8,
+    "petal_width": 2.01,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.39,
+    "sepal_width": 2.8,
+    "petal_length": 5.92,
+    "petal_width": 1.79,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.82,
+    "sepal_width": 2.45,
+    "petal_length": 4.97,
+    "petal_width": 2.13,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.3,
+    "sepal_width": 4.09,
+    "petal_length": 1.83,
+    "petal_width": 0.23,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.06,
+    "sepal_width": 3.08,
+    "petal_length": 1.73,
+    "petal_width": 0.39,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.25,
+    "sepal_width": 2.79,
+    "petal_length": 5.54,
+    "petal_width": 1.85,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.36,
+    "sepal_width": 2.58,
+    "petal_length": 3.63,
+    "petal_width": 1.56,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.29,
+    "sepal_width": 3.0,
+    "petal_length": 6.17,
+    "petal_width": 1.95,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.92,
+    "sepal_width": 3.46,
+    "petal_length": 5.72,
+    "petal_width": 1.75,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.63,
+    "sepal_width": 3.44,
+    "petal_length": 1.43,
+    "petal_width": 0.45,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.67,
+    "sepal_width": 2.73,
+    "petal_length": 4.94,
+    "petal_width": 1.55,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.49,
+    "sepal_width": 3.42,
+    "petal_length": 4.34,
+    "petal_width": 1.19,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.3,
+    "sepal_width": 2.46,
+    "petal_length": 3.61,
+    "petal_width": 1.0,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.13,
+    "sepal_width": 2.7,
+    "petal_length": 4.83,
+    "petal_width": 1.32,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.2,
+    "sepal_width": 3.32,
+    "petal_length": 4.71,
+    "petal_width": 1.45,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.19,
+    "sepal_width": 3.82,
+    "petal_length": 1.35,
+    "petal_width": 0.13,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.01,
+    "sepal_width": 3.44,
+    "petal_length": 5.34,
+    "petal_width": 2.09,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.21,
+    "sepal_width": 2.8,
+    "petal_length": 5.95,
+    "petal_width": 2.31,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.4,
+    "sepal_width": 2.74,
+    "petal_length": 5.15,
+    "petal_width": 1.58,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.84,
+    "sepal_width": 2.68,
+    "petal_length": 4.46,
+    "petal_width": 1.46,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.82,
+    "sepal_width": 2.64,
+    "petal_length": 6.17,
+    "petal_width": 1.99,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.43,
+    "sepal_width": 2.97,
+    "petal_length": 1.46,
+    "petal_width": 0.31,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.12,
+    "sepal_width": 2.9,
+    "petal_length": 4.32,
+    "petal_width": 1.19,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.56,
+    "sepal_width": 2.86,
+    "petal_length": 6.08,
+    "petal_width": 2.07,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.51,
+    "sepal_width": 3.06,
+    "petal_length": 5.2,
+    "petal_width": 1.49,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.2,
+    "sepal_width": 3.42,
+    "petal_length": 5.2,
+    "petal_width": 1.86,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.11,
+    "sepal_width": 2.57,
+    "petal_length": 4.32,
+    "petal_width": 1.3,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.68,
+    "sepal_width": 2.76,
+    "petal_length": 5.58,
+    "petal_width": 2.03,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.6,
+    "sepal_width": 2.85,
+    "petal_length": 6.02,
+    "petal_width": 1.78,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.88,
+    "sepal_width": 3.22,
+    "petal_length": 1.62,
+    "petal_width": 0.27,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.08,
+    "sepal_width": 2.85,
+    "petal_length": 4.33,
+    "petal_width": 1.74,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.21,
+    "sepal_width": 2.3,
+    "petal_length": 4.49,
+    "petal_width": 1.42,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.7,
+    "sepal_width": 2.44,
+    "petal_length": 5.25,
+    "petal_width": 1.44,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.76,
+    "sepal_width": 2.0,
+    "petal_length": 5.52,
+    "petal_width": 2.06,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.45,
+    "sepal_width": 2.65,
+    "petal_length": 3.57,
+    "petal_width": 1.08,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.77,
+    "sepal_width": 2.9,
+    "petal_length": 4.05,
+    "petal_width": 1.14,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.77,
+    "sepal_width": 3.14,
+    "petal_length": 1.71,
+    "petal_width": 0.37,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.72,
+    "sepal_width": 3.47,
+    "petal_length": 1.35,
+    "petal_width": 0.38,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.94,
+    "sepal_width": 3.22,
+    "petal_length": 1.28,
+    "petal_width": 0.29,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.86,
+    "sepal_width": 2.74,
+    "petal_length": 4.62,
+    "petal_width": 1.09,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.2,
+    "sepal_width": 2.81,
+    "petal_length": 1.77,
+    "petal_width": 0.34,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.28,
+    "sepal_width": 3.82,
+    "petal_length": 1.56,
+    "petal_width": 0.32,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.0,
+    "sepal_width": 2.83,
+    "petal_length": 5.46,
+    "petal_width": 1.93,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.72,
+    "sepal_width": 3.01,
+    "petal_length": 1.48,
+    "petal_width": 0.48,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.28,
+    "sepal_width": 3.08,
+    "petal_length": 1.65,
+    "petal_width": 0.21,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.53,
+    "sepal_width": 3.21,
+    "petal_length": 5.64,
+    "petal_width": 1.56,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.49,
+    "sepal_width": 3.2,
+    "petal_length": 6.51,
+    "petal_width": 1.6,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.22,
+    "sepal_width": 3.91,
+    "petal_length": 1.46,
+    "petal_width": 0.34,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.35,
+    "sepal_width": 2.76,
+    "petal_length": 4.32,
+    "petal_width": 1.34,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.84,
+    "sepal_width": 2.67,
+    "petal_length": 4.94,
+    "petal_width": 0.88,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.43,
+    "sepal_width": 3.16,
+    "petal_length": 6.29,
+    "petal_width": 1.55,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.86,
+    "sepal_width": 3.95,
+    "petal_length": 1.28,
+    "petal_width": 0.31,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.85,
+    "sepal_width": 3.27,
+    "petal_length": 5.77,
+    "petal_width": 1.7,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.37,
+    "sepal_width": 2.59,
+    "petal_length": 4.95,
+    "petal_width": 1.47,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.2,
+    "sepal_width": 3.41,
+    "petal_length": 1.2,
+    "petal_width": 0.28,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.21,
+    "sepal_width": 3.06,
+    "petal_length": 1.55,
+    "petal_width": 0.32,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.3,
+    "sepal_width": 2.73,
+    "petal_length": 3.65,
+    "petal_width": 1.42,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.66,
+    "sepal_width": 3.43,
+    "petal_length": 3.49,
+    "petal_width": 1.47,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.59,
+    "sepal_width": 2.62,
+    "petal_length": 4.3,
+    "petal_width": 1.0,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.84,
+    "sepal_width": 2.91,
+    "petal_length": 6.02,
+    "petal_width": 1.94,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.02,
+    "sepal_width": 3.73,
+    "petal_length": 1.53,
+    "petal_width": 0.33,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.75,
+    "sepal_width": 3.42,
+    "petal_length": 6.16,
+    "petal_width": 2.04,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.84,
+    "sepal_width": 2.45,
+    "petal_length": 6.33,
+    "petal_width": 1.82,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.24,
+    "sepal_width": 2.8,
+    "petal_length": 4.48,
+    "petal_width": 1.18,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.97,
+    "sepal_width": 2.36,
+    "petal_length": 5.94,
+    "petal_width": 1.46,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.72,
+    "sepal_width": 3.27,
+    "petal_length": 4.41,
+    "petal_width": 1.25,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.88,
+    "sepal_width": 2.94,
+    "petal_length": 5.47,
+    "petal_width": 1.75,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.56,
+    "sepal_width": 3.03,
+    "petal_length": 5.28,
+    "petal_width": 1.88,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.93,
+    "sepal_width": 3.11,
+    "petal_length": 1.82,
+    "petal_width": 0.27,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.29,
+    "sepal_width": 2.45,
+    "petal_length": 5.8,
+    "petal_width": 1.79,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.43,
+    "sepal_width": 3.77,
+    "petal_length": 1.43,
+    "petal_width": 0.1,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.8,
+    "sepal_width": 3.72,
+    "petal_length": 1.38,
+    "petal_width": 0.2,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.03,
+    "sepal_width": 2.7,
+    "petal_length": 4.68,
+    "petal_width": 1.17,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.81,
+    "sepal_width": 3.1,
+    "petal_length": 4.55,
+    "petal_width": 1.37,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.03,
+    "sepal_width": 3.16,
+    "petal_length": 3.74,
+    "petal_width": 1.19,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.28,
+    "sepal_width": 2.33,
+    "petal_length": 3.63,
+    "petal_width": 1.24,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.72,
+    "sepal_width": 2.93,
+    "petal_length": 1.46,
+    "petal_width": 0.16,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.73,
+    "sepal_width": 3.62,
+    "petal_length": 1.71,
+    "petal_width": 0.27,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.99,
+    "sepal_width": 3.41,
+    "petal_length": 1.39,
+    "petal_width": 0.23,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.73,
+    "sepal_width": 2.84,
+    "petal_length": 4.65,
+    "petal_width": 1.44,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.94,
+    "sepal_width": 3.1,
+    "petal_length": 5.17,
+    "petal_width": 1.72,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.37,
+    "sepal_width": 3.65,
+    "petal_length": 1.64,
+    "petal_width": 0.49,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.11,
+    "sepal_width": 2.2,
+    "petal_length": 4.05,
+    "petal_width": 1.19,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.58,
+    "sepal_width": 2.61,
+    "petal_length": 4.36,
+    "petal_width": 1.25,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.06,
+    "sepal_width": 3.18,
+    "petal_length": 1.68,
+    "petal_width": 0.36,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.1,
+    "sepal_width": 3.46,
+    "petal_length": 1.56,
+    "petal_width": 0.18,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.33,
+    "sepal_width": 3.03,
+    "petal_length": 5.09,
+    "petal_width": 2.02,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.94,
+    "sepal_width": 3.19,
+    "petal_length": 1.35,
+    "petal_width": 0.36,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.14,
+    "sepal_width": 2.93,
+    "petal_length": 3.59,
+    "petal_width": 1.34,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.05,
+    "sepal_width": 4.05,
+    "petal_length": 1.54,
+    "petal_width": 0.22,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.49,
+    "sepal_width": 3.0,
+    "petal_length": 5.06,
+    "petal_width": 1.35,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.41,
+    "sepal_width": 2.99,
+    "petal_length": 1.53,
+    "petal_width": 0.09,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.07,
+    "sepal_width": 2.98,
+    "petal_length": 5.44,
+    "petal_width": 1.74,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.28,
+    "sepal_width": 3.21,
+    "petal_length": 5.96,
+    "petal_width": 2.12,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.72,
+    "sepal_width": 2.6,
+    "petal_length": 1.53,
+    "petal_width": 0.23,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.14,
+    "sepal_width": 2.72,
+    "petal_length": 6.32,
+    "petal_width": 1.91,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.23,
+    "sepal_width": 2.68,
+    "petal_length": 4.37,
+    "petal_width": 1.24,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.26,
+    "sepal_width": 3.48,
+    "petal_length": 1.39,
+    "petal_width": 0.24,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.96,
+    "sepal_width": 3.28,
+    "petal_length": 1.72,
+    "petal_width": 0.45,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.12,
+    "sepal_width": 3.12,
+    "petal_length": 6.18,
+    "petal_width": 2.1,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.65,
+    "sepal_width": 2.66,
+    "petal_length": 3.49,
+    "petal_width": 1.22,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.07,
+    "sepal_width": 2.66,
+    "petal_length": 3.43,
+    "petal_width": 1.24,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.97,
+    "sepal_width": 3.43,
+    "petal_length": 1.33,
+    "petal_width": 0.43,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.11,
+    "sepal_width": 4.07,
+    "petal_length": 1.36,
+    "petal_width": 0.32,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.5,
+    "sepal_width": 2.88,
+    "petal_length": 4.55,
+    "petal_width": 0.96,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.0,
+    "sepal_width": 2.71,
+    "petal_length": 4.84,
+    "petal_width": 1.63,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.66,
+    "sepal_width": 2.69,
+    "petal_length": 4.31,
+    "petal_width": 1.55,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.26,
+    "sepal_width": 2.95,
+    "petal_length": 4.68,
+    "petal_width": 1.33,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.99,
+    "sepal_width": 2.93,
+    "petal_length": 4.09,
+    "petal_width": 1.37,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.51,
+    "sepal_width": 3.48,
+    "petal_length": 1.35,
+    "petal_width": 0.33,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.88,
+    "sepal_width": 3.4,
+    "petal_length": 5.28,
+    "petal_width": 2.23,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.72,
+    "sepal_width": 3.15,
+    "petal_length": 5.24,
+    "petal_width": 2.5,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.65,
+    "sepal_width": 3.07,
+    "petal_length": 1.51,
+    "petal_width": 0.45,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.32,
+    "sepal_width": 2.68,
+    "petal_length": 5.05,
+    "petal_width": 1.93,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.29,
+    "sepal_width": 2.92,
+    "petal_length": 1.42,
+    "petal_width": 0.46,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.5,
+    "sepal_width": 2.99,
+    "petal_length": 4.79,
+    "petal_width": 1.35,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.69,
+    "sepal_width": 2.48,
+    "petal_length": 4.16,
+    "petal_width": 1.57,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.51,
+    "sepal_width": 2.48,
+    "petal_length": 4.29,
+    "petal_width": 1.34,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.41,
+    "sepal_width": 2.92,
+    "petal_length": 4.62,
+    "petal_width": 1.22,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.53,
+    "sepal_width": 3.02,
+    "petal_length": 1.44,
+    "petal_width": 0.25,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.26,
+    "sepal_width": 3.06,
+    "petal_length": 6.48,
+    "petal_width": 2.08,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.27,
+    "sepal_width": 2.3,
+    "petal_length": 7.01,
+    "petal_width": 1.64,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.44,
+    "sepal_width": 2.9,
+    "petal_length": 1.76,
+    "petal_width": 0.31,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.25,
+    "sepal_width": 3.23,
+    "petal_length": 5.38,
+    "petal_width": 2.45,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.57,
+    "sepal_width": 2.67,
+    "petal_length": 1.31,
+    "petal_width": 0.36,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.78,
+    "sepal_width": 2.72,
+    "petal_length": 5.08,
+    "petal_width": 2.03,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.82,
+    "sepal_width": 3.41,
+    "petal_length": 1.61,
+    "petal_width": 0.21,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.14,
+    "sepal_width": 3.78,
+    "petal_length": 1.38,
+    "petal_width": 0.34,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.97,
+    "sepal_width": 3.03,
+    "petal_length": 5.35,
+    "petal_width": 1.97,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.37,
+    "sepal_width": 3.01,
+    "petal_length": 4.73,
+    "petal_width": 1.8,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.38,
+    "sepal_width": 3.51,
+    "petal_length": 1.61,
+    "petal_width": 0.41,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.46,
+    "sepal_width": 3.31,
+    "petal_length": 1.19,
+    "petal_width": 0.24,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.74,
+    "sepal_width": 2.86,
+    "petal_length": 5.84,
+    "petal_width": 2.31,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.8,
+    "sepal_width": 2.84,
+    "petal_length": 3.2,
+    "petal_width": 1.12,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.52,
+    "sepal_width": 3.59,
+    "petal_length": 1.57,
+    "petal_width": 0.21,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.38,
+    "sepal_width": 2.16,
+    "petal_length": 1.21,
+    "petal_width": 0.34,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.82,
+    "sepal_width": 3.35,
+    "petal_length": 1.39,
+    "petal_width": 0.39,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.97,
+    "sepal_width": 2.77,
+    "petal_length": 4.81,
+    "petal_width": 1.98,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.97,
+    "sepal_width": 3.72,
+    "petal_length": 1.62,
+    "petal_width": 0.25,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.58,
+    "sepal_width": 2.95,
+    "petal_length": 3.8,
+    "petal_width": 1.3,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.43,
+    "sepal_width": 3.95,
+    "petal_length": 5.75,
+    "petal_width": 1.98,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.51,
+    "sepal_width": 2.71,
+    "petal_length": 3.71,
+    "petal_width": 1.41,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.55,
+    "sepal_width": 3.39,
+    "petal_length": 1.82,
+    "petal_width": 0.42,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.93,
+    "sepal_width": 2.67,
+    "petal_length": 1.59,
+    "petal_width": 0.29,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.04,
+    "sepal_width": 3.3,
+    "petal_length": 1.46,
+    "petal_width": 0.18,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.76,
+    "sepal_width": 3.35,
+    "petal_length": 5.16,
+    "petal_width": 1.32,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.65,
+    "sepal_width": 3.19,
+    "petal_length": 1.32,
+    "petal_width": 0.28,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.51,
+    "sepal_width": 3.44,
+    "petal_length": 5.96,
+    "petal_width": 1.77,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.19,
+    "sepal_width": 2.84,
+    "petal_length": 4.04,
+    "petal_width": 1.27,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.67,
+    "sepal_width": 3.44,
+    "petal_length": 5.63,
+    "petal_width": 2.16,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.43,
+    "sepal_width": 3.91,
+    "petal_length": 1.36,
+    "petal_width": 0.45,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.09,
+    "sepal_width": 2.78,
+    "petal_length": 1.58,
+    "petal_width": 0.31,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.72,
+    "sepal_width": 3.59,
+    "petal_length": 1.46,
+    "petal_width": 0.26,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.96,
+    "sepal_width": 2.87,
+    "petal_length": 5.73,
+    "petal_width": 2.1,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.17,
+    "sepal_width": 2.66,
+    "petal_length": 4.09,
+    "petal_width": 1.14,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.12,
+    "sepal_width": 2.77,
+    "petal_length": 1.26,
+    "petal_width": 0.23,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.43,
+    "sepal_width": 3.42,
+    "petal_length": 3.79,
+    "petal_width": 1.49,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.15,
+    "sepal_width": 2.77,
+    "petal_length": 4.18,
+    "petal_width": 1.45,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.92,
+    "sepal_width": 3.44,
+    "petal_length": 1.54,
+    "petal_width": 0.42,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.74,
+    "sepal_width": 2.3,
+    "petal_length": 3.85,
+    "petal_width": 1.35,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.1,
+    "sepal_width": 2.27,
+    "petal_length": 5.37,
+    "petal_width": 2.32,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.24,
+    "sepal_width": 3.75,
+    "petal_length": 1.42,
+    "petal_width": 0.37,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.2,
+    "sepal_width": 2.89,
+    "petal_length": 1.63,
+    "petal_width": 0.16,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.01,
+    "sepal_width": 2.59,
+    "petal_length": 5.39,
+    "petal_width": 1.84,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.37,
+    "sepal_width": 2.43,
+    "petal_length": 1.43,
+    "petal_width": 0.22,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.15,
+    "sepal_width": 2.7,
+    "petal_length": 3.88,
+    "petal_width": 1.12,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.46,
+    "sepal_width": 3.51,
+    "petal_length": 5.97,
+    "petal_width": 1.7,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.49,
+    "sepal_width": 2.44,
+    "petal_length": 1.16,
+    "petal_width": 0.16,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.97,
+    "sepal_width": 2.85,
+    "petal_length": 1.46,
+    "petal_width": 0.33,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.86,
+    "sepal_width": 3.91,
+    "petal_length": 1.66,
+    "petal_width": 0.36,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.42,
+    "sepal_width": 2.68,
+    "petal_length": 3.84,
+    "petal_width": 1.15,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.07,
+    "sepal_width": 3.33,
+    "petal_length": 1.41,
+    "petal_width": 0.25,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.98,
+    "sepal_width": 2.94,
+    "petal_length": 4.86,
+    "petal_width": 1.43,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.75,
+    "sepal_width": 3.29,
+    "petal_length": 4.48,
+    "petal_width": 1.12,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.3,
+    "sepal_width": 3.51,
+    "petal_length": 1.53,
+    "petal_width": 0.19,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.3,
+    "sepal_width": 3.0,
+    "petal_length": 1.59,
+    "petal_width": 0.31,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.37,
+    "sepal_width": 2.9,
+    "petal_length": 1.62,
+    "petal_width": 0.29,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.01,
+    "sepal_width": 3.82,
+    "petal_length": 1.54,
+    "petal_width": 0.27,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.0,
+    "sepal_width": 4.0,
+    "petal_length": 6.88,
+    "petal_width": 1.8,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.49,
+    "sepal_width": 3.1,
+    "petal_length": 5.7,
+    "petal_width": 1.93,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.59,
+    "sepal_width": 2.51,
+    "petal_length": 1.31,
+    "petal_width": 0.4,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.37,
+    "sepal_width": 2.69,
+    "petal_length": 5.12,
+    "petal_width": 1.94,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.98,
+    "sepal_width": 2.45,
+    "petal_length": 5.59,
+    "petal_width": 2.31,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.22,
+    "sepal_width": 4.02,
+    "petal_length": 1.32,
+    "petal_width": 0.06,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.19,
+    "sepal_width": 3.46,
+    "petal_length": 4.91,
+    "petal_width": 2.37,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.24,
+    "sepal_width": 2.36,
+    "petal_length": 4.71,
+    "petal_width": 1.09,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.25,
+    "sepal_width": 3.05,
+    "petal_length": 1.34,
+    "petal_width": 0.42,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.81,
+    "sepal_width": 2.72,
+    "petal_length": 3.68,
+    "petal_width": 1.14,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.07,
+    "sepal_width": 2.95,
+    "petal_length": 4.21,
+    "petal_width": 1.43,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.06,
+    "sepal_width": 3.55,
+    "petal_length": 1.5,
+    "petal_width": 0.17,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.82,
+    "sepal_width": 2.5,
+    "petal_length": 5.79,
+    "petal_width": 1.79,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.46,
+    "sepal_width": 3.32,
+    "petal_length": 1.71,
+    "petal_width": 0.38,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.95,
+    "sepal_width": 3.16,
+    "petal_length": 1.41,
+    "petal_width": 0.24,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.25,
+    "sepal_width": 2.96,
+    "petal_length": 3.83,
+    "petal_width": 1.13,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.76,
+    "sepal_width": 3.18,
+    "petal_length": 4.06,
+    "petal_width": 2.3,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.55,
+    "sepal_width": 3.92,
+    "petal_length": 1.46,
+    "petal_width": 0.17,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.64,
+    "sepal_width": 3.21,
+    "petal_length": 1.34,
+    "petal_width": 0.24,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.83,
+    "sepal_width": 2.99,
+    "petal_length": 4.86,
+    "petal_width": 1.98,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.98,
+    "sepal_width": 3.2,
+    "petal_length": 1.59,
+    "petal_width": 0.45,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.79,
+    "sepal_width": 2.98,
+    "petal_length": 3.81,
+    "petal_width": 1.08,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.64,
+    "sepal_width": 3.15,
+    "petal_length": 2.0,
+    "petal_width": 0.26,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.56,
+    "sepal_width": 3.52,
+    "petal_length": 4.26,
+    "petal_width": 1.3,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.57,
+    "sepal_width": 2.72,
+    "petal_length": 4.51,
+    "petal_width": 1.49,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.11,
+    "sepal_width": 2.7,
+    "petal_length": 4.57,
+    "petal_width": 1.25,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.35,
+    "sepal_width": 2.24,
+    "petal_length": 4.32,
+    "petal_width": 1.38,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.66,
+    "sepal_width": 2.98,
+    "petal_length": 4.85,
+    "petal_width": 1.22,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.13,
+    "sepal_width": 3.2,
+    "petal_length": 1.67,
+    "petal_width": 0.35,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.06,
+    "sepal_width": 3.06,
+    "petal_length": 1.32,
+    "petal_width": 0.38,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.02,
+    "sepal_width": 3.17,
+    "petal_length": 5.81,
+    "petal_width": 1.6,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.14,
+    "sepal_width": 2.65,
+    "petal_length": 3.6,
+    "petal_width": 1.16,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.0,
+    "sepal_width": 2.79,
+    "petal_length": 5.35,
+    "petal_width": 1.82,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.13,
+    "sepal_width": 3.65,
+    "petal_length": 4.7,
+    "petal_width": 1.73,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.94,
+    "sepal_width": 3.46,
+    "petal_length": 1.56,
+    "petal_width": 0.25,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.12,
+    "sepal_width": 4.02,
+    "petal_length": 1.43,
+    "petal_width": 0.23,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.23,
+    "sepal_width": 2.56,
+    "petal_length": 4.09,
+    "petal_width": 1.28,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.03,
+    "sepal_width": 3.12,
+    "petal_length": 1.52,
+    "petal_width": 0.19,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.38,
+    "sepal_width": 2.84,
+    "petal_length": 5.57,
+    "petal_width": 2.21,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.89,
+    "sepal_width": 2.31,
+    "petal_length": 5.34,
+    "petal_width": 2.25,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.33,
+    "sepal_width": 3.02,
+    "petal_length": 4.46,
+    "petal_width": 1.42,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.42,
+    "sepal_width": 2.88,
+    "petal_length": 6.22,
+    "petal_width": 2.02,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.26,
+    "sepal_width": 3.08,
+    "petal_length": 6.38,
+    "petal_width": 2.04,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.14,
+    "sepal_width": 2.88,
+    "petal_length": 1.4,
+    "petal_width": 0.47,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.56,
+    "sepal_width": 3.23,
+    "petal_length": 5.38,
+    "petal_width": 2.17,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.93,
+    "sepal_width": 2.66,
+    "petal_length": 4.85,
+    "petal_width": 2.46,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.12,
+    "sepal_width": 2.7,
+    "petal_length": 4.05,
+    "petal_width": 1.14,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.6,
+    "sepal_width": 3.1,
+    "petal_length": 5.22,
+    "petal_width": 2.34,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.11,
+    "sepal_width": 3.16,
+    "petal_length": 4.29,
+    "petal_width": 1.49,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.73,
+    "sepal_width": 3.67,
+    "petal_length": 6.03,
+    "petal_width": 1.8,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.96,
+    "sepal_width": 3.28,
+    "petal_length": 1.61,
+    "petal_width": 0.36,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.61,
+    "sepal_width": 2.41,
+    "petal_length": 3.84,
+    "petal_width": 1.02,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.67,
+    "sepal_width": 2.84,
+    "petal_length": 6.33,
+    "petal_width": 1.86,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.27,
+    "sepal_width": 3.07,
+    "petal_length": 4.96,
+    "petal_width": 1.58,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.4,
+    "sepal_width": 3.2,
+    "petal_length": 6.4,
+    "petal_width": 1.88,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.22,
+    "sepal_width": 2.81,
+    "petal_length": 5.87,
+    "petal_width": 1.32,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.81,
+    "sepal_width": 2.9,
+    "petal_length": 4.13,
+    "petal_width": 1.61,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.68,
+    "sepal_width": 2.66,
+    "petal_length": 5.7,
+    "petal_width": 2.57,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 8.57,
+    "sepal_width": 3.26,
+    "petal_length": 4.84,
+    "petal_width": 1.72,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.63,
+    "sepal_width": 2.54,
+    "petal_length": 4.06,
+    "petal_width": 1.36,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.85,
+    "sepal_width": 3.33,
+    "petal_length": 1.45,
+    "petal_width": 0.42,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.2,
+    "sepal_width": 2.21,
+    "petal_length": 5.21,
+    "petal_width": 1.54,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.9,
+    "sepal_width": 3.51,
+    "petal_length": 6.31,
+    "petal_width": 2.19,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.23,
+    "sepal_width": 3.21,
+    "petal_length": 4.99,
+    "petal_width": 1.52,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.08,
+    "sepal_width": 3.15,
+    "petal_length": 1.56,
+    "petal_width": 0.2,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.17,
+    "sepal_width": 3.18,
+    "petal_length": 3.41,
+    "petal_width": 1.6,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.43,
+    "sepal_width": 3.3,
+    "petal_length": 4.39,
+    "petal_width": 1.27,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.94,
+    "sepal_width": 3.19,
+    "petal_length": 5.31,
+    "petal_width": 2.09,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.95,
+    "sepal_width": 2.47,
+    "petal_length": 4.1,
+    "petal_width": 1.19,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.34,
+    "sepal_width": 2.7,
+    "petal_length": 5.8,
+    "petal_width": 2.2,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.67,
+    "sepal_width": 2.89,
+    "petal_length": 5.93,
+    "petal_width": 1.99,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.0,
+    "sepal_width": 3.93,
+    "petal_length": 1.65,
+    "petal_width": 0.21,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.77,
+    "sepal_width": 2.64,
+    "petal_length": 5.5,
+    "petal_width": 2.06,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.34,
+    "sepal_width": 2.61,
+    "petal_length": 5.85,
+    "petal_width": 2.01,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.49,
+    "sepal_width": 3.16,
+    "petal_length": 6.41,
+    "petal_width": 2.25,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.7,
+    "sepal_width": 2.7,
+    "petal_length": 4.4,
+    "petal_width": 1.24,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.6,
+    "sepal_width": 3.64,
+    "petal_length": 1.11,
+    "petal_width": 0.27,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.99,
+    "sepal_width": 3.48,
+    "petal_length": 1.32,
+    "petal_width": 0.27,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.77,
+    "sepal_width": 3.29,
+    "petal_length": 1.51,
+    "petal_width": 0.22,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.1,
+    "sepal_width": 2.95,
+    "petal_length": 5.34,
+    "petal_width": 1.71,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.02,
+    "sepal_width": 3.37,
+    "petal_length": 4.66,
+    "petal_width": 1.2,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.4,
+    "sepal_width": 3.12,
+    "petal_length": 4.62,
+    "petal_width": 1.37,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.57,
+    "sepal_width": 2.22,
+    "petal_length": 4.55,
+    "petal_width": 1.03,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.27,
+    "sepal_width": 3.3,
+    "petal_length": 6.11,
+    "petal_width": 1.87,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.26,
+    "sepal_width": 3.2,
+    "petal_length": 5.12,
+    "petal_width": 1.98,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.04,
+    "sepal_width": 3.69,
+    "petal_length": 1.76,
+    "petal_width": 0.36,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.85,
+    "sepal_width": 3.81,
+    "petal_length": 1.49,
+    "petal_width": 0.31,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.93,
+    "sepal_width": 2.86,
+    "petal_length": 1.75,
+    "petal_width": 0.24,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.28,
+    "sepal_width": 3.09,
+    "petal_length": 3.93,
+    "petal_width": 1.08,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.39,
+    "sepal_width": 2.58,
+    "petal_length": 3.01,
+    "petal_width": 0.88,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.7,
+    "sepal_width": 2.79,
+    "petal_length": 1.85,
+    "petal_width": 0.41,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.16,
+    "sepal_width": 3.07,
+    "petal_length": 6.35,
+    "petal_width": 2.08,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.01,
+    "sepal_width": 2.8,
+    "petal_length": 4.36,
+    "petal_width": 1.6,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.57,
+    "sepal_width": 4.45,
+    "petal_length": 1.43,
+    "petal_width": 0.39,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.44,
+    "sepal_width": 2.63,
+    "petal_length": 5.96,
+    "petal_width": 2.21,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.56,
+    "sepal_width": 3.41,
+    "petal_length": 5.6,
+    "petal_width": 2.29,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.82,
+    "sepal_width": 2.9,
+    "petal_length": 5.2,
+    "petal_width": 2.0,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.82,
+    "sepal_width": 3.09,
+    "petal_length": 6.39,
+    "petal_width": 2.28,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.51,
+    "sepal_width": 3.41,
+    "petal_length": 1.39,
+    "petal_width": 0.54,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.99,
+    "sepal_width": 3.07,
+    "petal_length": 3.21,
+    "petal_width": 0.97,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.19,
+    "sepal_width": 2.92,
+    "petal_length": 3.42,
+    "petal_width": 1.36,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.15,
+    "sepal_width": 3.74,
+    "petal_length": 1.63,
+    "petal_width": 0.28,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.31,
+    "sepal_width": 3.54,
+    "petal_length": 1.15,
+    "petal_width": 0.18,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.69,
+    "sepal_width": 4.51,
+    "petal_length": 1.35,
+    "petal_width": 0.33,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.18,
+    "sepal_width": 2.33,
+    "petal_length": 4.53,
+    "petal_width": 1.24,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.9,
+    "sepal_width": 2.82,
+    "petal_length": 4.39,
+    "petal_width": 1.3,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.45,
+    "sepal_width": 3.06,
+    "petal_length": 1.13,
+    "petal_width": 0.3,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.83,
+    "sepal_width": 2.52,
+    "petal_length": 3.92,
+    "petal_width": 1.29,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.56,
+    "sepal_width": 3.49,
+    "petal_length": 1.31,
+    "petal_width": 0.5,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.85,
+    "sepal_width": 2.34,
+    "petal_length": 4.91,
+    "petal_width": 1.43,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.09,
+    "sepal_width": 3.04,
+    "petal_length": 4.18,
+    "petal_width": 1.15,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.01,
+    "sepal_width": 3.0,
+    "petal_length": 4.11,
+    "petal_width": 1.45,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.43,
+    "sepal_width": 2.6,
+    "petal_length": 4.8,
+    "petal_width": 1.32,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.02,
+    "sepal_width": 3.9,
+    "petal_length": 1.61,
+    "petal_width": 0.51,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.91,
+    "sepal_width": 3.46,
+    "petal_length": 1.49,
+    "petal_width": 0.39,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.47,
+    "sepal_width": 3.02,
+    "petal_length": 5.6,
+    "petal_width": 1.71,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.75,
+    "sepal_width": 3.66,
+    "petal_length": 1.22,
+    "petal_width": 0.22,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.32,
+    "sepal_width": 3.83,
+    "petal_length": 1.53,
+    "petal_width": 0.38,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.43,
+    "sepal_width": 3.3,
+    "petal_length": 4.1,
+    "petal_width": 1.18,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.03,
+    "sepal_width": 3.47,
+    "petal_length": 1.68,
+    "petal_width": 0.16,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.76,
+    "sepal_width": 3.15,
+    "petal_length": 4.5,
+    "petal_width": 1.4,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.4,
+    "sepal_width": 3.62,
+    "petal_length": 3.88,
+    "petal_width": 1.8,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.48,
+    "sepal_width": 3.54,
+    "petal_length": 5.16,
+    "petal_width": 2.92,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.63,
+    "sepal_width": 2.87,
+    "petal_length": 1.33,
+    "petal_width": 0.28,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.79,
+    "sepal_width": 3.52,
+    "petal_length": 1.23,
+    "petal_width": 0.26,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.6,
+    "sepal_width": 3.59,
+    "petal_length": 1.46,
+    "petal_width": 0.39,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.41,
+    "sepal_width": 2.98,
+    "petal_length": 4.21,
+    "petal_width": 1.24,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.56,
+    "sepal_width": 3.2,
+    "petal_length": 6.39,
+    "petal_width": 2.17,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.19,
+    "sepal_width": 3.58,
+    "petal_length": 1.6,
+    "petal_width": 0.15,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.76,
+    "sepal_width": 2.76,
+    "petal_length": 6.08,
+    "petal_width": 1.98,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.62,
+    "sepal_width": 3.33,
+    "petal_length": 1.47,
+    "petal_width": 0.2,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.24,
+    "sepal_width": 3.75,
+    "petal_length": 1.51,
+    "petal_width": 0.33,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.89,
+    "sepal_width": 3.37,
+    "petal_length": 1.75,
+    "petal_width": 0.3,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.07,
+    "sepal_width": 3.11,
+    "petal_length": 3.37,
+    "petal_width": 1.38,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.78,
+    "sepal_width": 3.26,
+    "petal_length": 4.14,
+    "petal_width": 1.37,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.93,
+    "sepal_width": 2.08,
+    "petal_length": 3.67,
+    "petal_width": 1.33,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.07,
+    "sepal_width": 2.85,
+    "petal_length": 5.81,
+    "petal_width": 2.06,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.95,
+    "sepal_width": 3.32,
+    "petal_length": 1.65,
+    "petal_width": 0.18,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.87,
+    "sepal_width": 2.98,
+    "petal_length": 4.6,
+    "petal_width": 1.0,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.71,
+    "sepal_width": 3.17,
+    "petal_length": 5.32,
+    "petal_width": 2.14,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.33,
+    "sepal_width": 2.88,
+    "petal_length": 4.36,
+    "petal_width": 1.29,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 8.08,
+    "sepal_width": 3.16,
+    "petal_length": 5.9,
+    "petal_width": 2.13,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.59,
+    "sepal_width": 3.62,
+    "petal_length": 1.29,
+    "petal_width": 0.32,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.06,
+    "sepal_width": 2.8,
+    "petal_length": 3.45,
+    "petal_width": 1.15,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.35,
+    "sepal_width": 2.72,
+    "petal_length": 3.86,
+    "petal_width": 1.1,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.06,
+    "sepal_width": 2.89,
+    "petal_length": 4.88,
+    "petal_width": 1.21,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.83,
+    "sepal_width": 2.32,
+    "petal_length": 5.68,
+    "petal_width": 1.37,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.19,
+    "sepal_width": 3.61,
+    "petal_length": 1.6,
+    "petal_width": 0.14,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.95,
+    "sepal_width": 3.22,
+    "petal_length": 4.19,
+    "petal_width": 1.27,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.93,
+    "sepal_width": 3.25,
+    "petal_length": 1.79,
+    "petal_width": 0.26,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.09,
+    "sepal_width": 2.93,
+    "petal_length": 4.65,
+    "petal_width": 1.94,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.27,
+    "sepal_width": 3.12,
+    "petal_length": 4.62,
+    "petal_width": 1.25,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.8,
+    "sepal_width": 3.62,
+    "petal_length": 1.22,
+    "petal_width": 0.52,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.6,
+    "sepal_width": 3.1,
+    "petal_length": 1.36,
+    "petal_width": 0.2,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.6,
+    "sepal_width": 3.48,
+    "petal_length": 1.5,
+    "petal_width": 0.29,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.39,
+    "sepal_width": 3.27,
+    "petal_length": 4.25,
+    "petal_width": 1.1,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.25,
+    "sepal_width": 2.81,
+    "petal_length": 5.82,
+    "petal_width": 1.87,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.13,
+    "sepal_width": 3.22,
+    "petal_length": 1.53,
+    "petal_width": 0.22,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.78,
+    "sepal_width": 3.16,
+    "petal_length": 5.06,
+    "petal_width": 2.07,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.14,
+    "sepal_width": 3.67,
+    "petal_length": 1.79,
+    "petal_width": 0.39,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.91,
+    "sepal_width": 3.16,
+    "petal_length": 5.39,
+    "petal_width": 2.16,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.58,
+    "sepal_width": 2.76,
+    "petal_length": 1.33,
+    "petal_width": 0.36,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.1,
+    "sepal_width": 2.88,
+    "petal_length": 4.25,
+    "petal_width": 1.39,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.52,
+    "sepal_width": 2.67,
+    "petal_length": 1.25,
+    "petal_width": 0.38,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.01,
+    "sepal_width": 3.24,
+    "petal_length": 1.34,
+    "petal_width": 0.39,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.11,
+    "sepal_width": 3.03,
+    "petal_length": 5.56,
+    "petal_width": 1.64,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.23,
+    "sepal_width": 3.1,
+    "petal_length": 4.04,
+    "petal_width": 1.16,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.94,
+    "sepal_width": 2.52,
+    "petal_length": 4.55,
+    "petal_width": 1.26,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.69,
+    "sepal_width": 2.48,
+    "petal_length": 3.63,
+    "petal_width": 1.12,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.74,
+    "sepal_width": 2.96,
+    "petal_length": 6.06,
+    "petal_width": 1.85,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.38,
+    "sepal_width": 2.63,
+    "petal_length": 4.8,
+    "petal_width": 2.08,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.15,
+    "sepal_width": 3.04,
+    "petal_length": 1.79,
+    "petal_width": 0.29,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.47,
+    "sepal_width": 2.82,
+    "petal_length": 1.61,
+    "petal_width": 0.29,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.33,
+    "sepal_width": 3.03,
+    "petal_length": 3.37,
+    "petal_width": 1.71,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.52,
+    "sepal_width": 2.88,
+    "petal_length": 5.85,
+    "petal_width": 1.5,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.0,
+    "sepal_width": 2.34,
+    "petal_length": 4.71,
+    "petal_width": 1.2,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.87,
+    "sepal_width": 3.2,
+    "petal_length": 1.29,
+    "petal_width": 0.19,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 8.18,
+    "sepal_width": 3.13,
+    "petal_length": 5.93,
+    "petal_width": 1.79,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.16,
+    "sepal_width": 3.54,
+    "petal_length": 1.37,
+    "petal_width": 0.32,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.12,
+    "sepal_width": 3.68,
+    "petal_length": 1.35,
+    "petal_width": 0.19,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.46,
+    "sepal_width": 2.91,
+    "petal_length": 3.8,
+    "petal_width": 1.27,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.99,
+    "sepal_width": 3.23,
+    "petal_length": 4.37,
+    "petal_width": 1.67,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.7,
+    "sepal_width": 3.14,
+    "petal_length": 4.34,
+    "petal_width": 1.34,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.32,
+    "sepal_width": 2.37,
+    "petal_length": 5.93,
+    "petal_width": 2.06,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.93,
+    "sepal_width": 3.57,
+    "petal_length": 1.62,
+    "petal_width": 0.26,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.15,
+    "sepal_width": 3.18,
+    "petal_length": 1.33,
+    "petal_width": 0.3,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.13,
+    "sepal_width": 4.15,
+    "petal_length": 1.54,
+    "petal_width": 0.29,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.23,
+    "sepal_width": 2.79,
+    "petal_length": 3.99,
+    "petal_width": 1.42,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.59,
+    "sepal_width": 3.36,
+    "petal_length": 4.17,
+    "petal_width": 1.38,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.07,
+    "sepal_width": 2.78,
+    "petal_length": 1.68,
+    "petal_width": 0.27,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.08,
+    "sepal_width": 4.06,
+    "petal_length": 1.54,
+    "petal_width": 0.21,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.77,
+    "sepal_width": 2.79,
+    "petal_length": 4.31,
+    "petal_width": 0.97,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.5,
+    "sepal_width": 3.69,
+    "petal_length": 5.72,
+    "petal_width": 1.7,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.17,
+    "sepal_width": 2.67,
+    "petal_length": 6.01,
+    "petal_width": 2.13,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.3,
+    "sepal_width": 2.52,
+    "petal_length": 4.58,
+    "petal_width": 1.51,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.07,
+    "sepal_width": 3.53,
+    "petal_length": 1.66,
+    "petal_width": 0.2,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.31,
+    "sepal_width": 2.93,
+    "petal_length": 5.75,
+    "petal_width": 2.05,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.2,
+    "sepal_width": 3.22,
+    "petal_length": 1.3,
+    "petal_width": 0.22,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.13,
+    "sepal_width": 3.73,
+    "petal_length": 1.47,
+    "petal_width": 0.24,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.83,
+    "sepal_width": 3.13,
+    "petal_length": 5.6,
+    "petal_width": 2.17,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.36,
+    "sepal_width": 3.62,
+    "petal_length": 1.58,
+    "petal_width": 0.24,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.71,
+    "sepal_width": 3.35,
+    "petal_length": 3.53,
+    "petal_width": 1.47,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.74,
+    "sepal_width": 2.71,
+    "petal_length": 3.32,
+    "petal_width": 1.5,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.97,
+    "sepal_width": 2.95,
+    "petal_length": 5.85,
+    "petal_width": 1.76,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.07,
+    "sepal_width": 2.99,
+    "petal_length": 1.81,
+    "petal_width": 0.4,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.4,
+    "sepal_width": 3.22,
+    "petal_length": 1.28,
+    "petal_width": 0.19,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.12,
+    "sepal_width": 2.69,
+    "petal_length": 3.54,
+    "petal_width": 1.06,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.2,
+    "sepal_width": 3.45,
+    "petal_length": 1.59,
+    "petal_width": 0.36,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.58,
+    "sepal_width": 2.01,
+    "petal_length": 4.65,
+    "petal_width": 1.04,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.93,
+    "sepal_width": 2.84,
+    "petal_length": 4.56,
+    "petal_width": 1.53,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.11,
+    "sepal_width": 2.96,
+    "petal_length": 5.51,
+    "petal_width": 1.89,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.24,
+    "sepal_width": 2.82,
+    "petal_length": 5.14,
+    "petal_width": 2.29,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.83,
+    "sepal_width": 3.24,
+    "petal_length": 6.81,
+    "petal_width": 1.66,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.21,
+    "sepal_width": 2.62,
+    "petal_length": 6.63,
+    "petal_width": 2.57,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.39,
+    "sepal_width": 2.6,
+    "petal_length": 4.11,
+    "petal_width": 1.28,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.5,
+    "sepal_width": 2.37,
+    "petal_length": 4.93,
+    "petal_width": 1.27,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.08,
+    "sepal_width": 3.26,
+    "petal_length": 1.73,
+    "petal_width": 0.39,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.66,
+    "sepal_width": 2.94,
+    "petal_length": 4.3,
+    "petal_width": 1.27,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.89,
+    "sepal_width": 2.63,
+    "petal_length": 3.66,
+    "petal_width": 1.38,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.22,
+    "sepal_width": 2.32,
+    "petal_length": 4.16,
+    "petal_width": 1.32,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.63,
+    "sepal_width": 2.89,
+    "petal_length": 3.5,
+    "petal_width": 1.4,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.63,
+    "sepal_width": 3.06,
+    "petal_length": 1.75,
+    "petal_width": 0.26,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.78,
+    "sepal_width": 3.09,
+    "petal_length": 1.67,
+    "petal_width": 0.3,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.53,
+    "sepal_width": 2.63,
+    "petal_length": 4.54,
+    "petal_width": 1.24,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.84,
+    "sepal_width": 2.56,
+    "petal_length": 4.65,
+    "petal_width": 1.06,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.78,
+    "sepal_width": 3.09,
+    "petal_length": 4.54,
+    "petal_width": 1.52,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.69,
+    "sepal_width": 3.96,
+    "petal_length": 1.26,
+    "petal_width": 0.38,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.67,
+    "sepal_width": 3.55,
+    "petal_length": 1.44,
+    "petal_width": 0.23,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.01,
+    "sepal_width": 3.31,
+    "petal_length": 1.42,
+    "petal_width": 0.61,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.45,
+    "sepal_width": 3.03,
+    "petal_length": 4.66,
+    "petal_width": 1.25,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.9,
+    "sepal_width": 2.76,
+    "petal_length": 3.09,
+    "petal_width": 1.01,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.34,
+    "sepal_width": 2.86,
+    "petal_length": 1.55,
+    "petal_width": 0.18,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.65,
+    "sepal_width": 3.51,
+    "petal_length": 2.04,
+    "petal_width": 0.21,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.67,
+    "sepal_width": 3.5,
+    "petal_length": 1.68,
+    "petal_width": 0.42,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.1,
+    "sepal_width": 3.0,
+    "petal_length": 6.25,
+    "petal_width": 1.99,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.83,
+    "sepal_width": 2.62,
+    "petal_length": 5.22,
+    "petal_width": 1.11,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.54,
+    "sepal_width": 3.47,
+    "petal_length": 1.65,
+    "petal_width": 0.2,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.42,
+    "sepal_width": 2.58,
+    "petal_length": 4.61,
+    "petal_width": 1.35,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.09,
+    "sepal_width": 3.48,
+    "petal_length": 1.4,
+    "petal_width": 0.33,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.36,
+    "sepal_width": 2.66,
+    "petal_length": 1.53,
+    "petal_width": 0.35,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.54,
+    "sepal_width": 2.88,
+    "petal_length": 4.35,
+    "petal_width": 1.23,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.98,
+    "sepal_width": 3.43,
+    "petal_length": 1.65,
+    "petal_width": 0.21,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.42,
+    "sepal_width": 2.76,
+    "petal_length": 4.83,
+    "petal_width": 1.52,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.36,
+    "sepal_width": 3.23,
+    "petal_length": 5.64,
+    "petal_width": 1.86,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.2,
+    "sepal_width": 2.9,
+    "petal_length": 3.86,
+    "petal_width": 1.31,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.78,
+    "sepal_width": 2.97,
+    "petal_length": 4.04,
+    "petal_width": 1.33,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.7,
+    "sepal_width": 2.66,
+    "petal_length": 5.91,
+    "petal_width": 1.97,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.54,
+    "sepal_width": 3.2,
+    "petal_length": 4.61,
+    "petal_width": 1.18,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.96,
+    "sepal_width": 2.8,
+    "petal_length": 3.59,
+    "petal_width": 1.33,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.55,
+    "sepal_width": 2.07,
+    "petal_length": 4.63,
+    "petal_width": 1.29,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.23,
+    "sepal_width": 3.34,
+    "petal_length": 1.47,
+    "petal_width": 0.25,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.16,
+    "sepal_width": 3.37,
+    "petal_length": 1.55,
+    "petal_width": 0.42,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.48,
+    "sepal_width": 3.24,
+    "petal_length": 1.48,
+    "petal_width": 0.25,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.0,
+    "sepal_width": 3.58,
+    "petal_length": 1.48,
+    "petal_width": 0.18,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.27,
+    "sepal_width": 3.6,
+    "petal_length": 1.51,
+    "petal_width": 0.18,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.83,
+    "sepal_width": 3.0,
+    "petal_length": 4.88,
+    "petal_width": 2.14,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.5,
+    "sepal_width": 2.7,
+    "petal_length": 4.78,
+    "petal_width": 1.71,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.04,
+    "sepal_width": 3.23,
+    "petal_length": 1.73,
+    "petal_width": 0.16,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.59,
+    "sepal_width": 3.14,
+    "petal_length": 6.21,
+    "petal_width": 1.78,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.62,
+    "sepal_width": 3.9,
+    "petal_length": 1.6,
+    "petal_width": 0.23,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.78,
+    "sepal_width": 3.06,
+    "petal_length": 1.55,
+    "petal_width": 0.28,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.96,
+    "sepal_width": 3.59,
+    "petal_length": 1.4,
+    "petal_width": 0.16,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.91,
+    "sepal_width": 2.22,
+    "petal_length": 5.45,
+    "petal_width": 1.83,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.4,
+    "sepal_width": 2.92,
+    "petal_length": 4.84,
+    "petal_width": 1.59,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.58,
+    "sepal_width": 3.45,
+    "petal_length": 6.02,
+    "petal_width": 2.14,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.34,
+    "sepal_width": 3.45,
+    "petal_length": 5.14,
+    "petal_width": 2.14,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.09,
+    "sepal_width": 3.46,
+    "petal_length": 1.68,
+    "petal_width": 0.39,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.46,
+    "sepal_width": 3.23,
+    "petal_length": 4.39,
+    "petal_width": 1.14,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 8.02,
+    "sepal_width": 3.36,
+    "petal_length": 5.37,
+    "petal_width": 1.93,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.53,
+    "sepal_width": 3.43,
+    "petal_length": 5.23,
+    "petal_width": 1.65,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.0,
+    "sepal_width": 3.26,
+    "petal_length": 5.84,
+    "petal_width": 2.03,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.09,
+    "sepal_width": 3.89,
+    "petal_length": 1.51,
+    "petal_width": 0.29,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.69,
+    "sepal_width": 2.82,
+    "petal_length": 6.05,
+    "petal_width": 2.08,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.24,
+    "sepal_width": 3.14,
+    "petal_length": 1.26,
+    "petal_width": 0.36,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.05,
+    "sepal_width": 3.0,
+    "petal_length": 3.76,
+    "petal_width": 1.64,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.74,
+    "sepal_width": 3.12,
+    "petal_length": 6.39,
+    "petal_width": 2.24,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.86,
+    "sepal_width": 3.0,
+    "petal_length": 4.48,
+    "petal_width": 1.42,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.3,
+    "sepal_width": 3.12,
+    "petal_length": 5.56,
+    "petal_width": 2.2,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.98,
+    "sepal_width": 3.44,
+    "petal_length": 5.69,
+    "petal_width": 2.17,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.03,
+    "sepal_width": 2.99,
+    "petal_length": 4.29,
+    "petal_width": 1.03,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.01,
+    "sepal_width": 3.06,
+    "petal_length": 3.97,
+    "petal_width": 1.37,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.47,
+    "sepal_width": 3.16,
+    "petal_length": 4.06,
+    "petal_width": 1.26,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.15,
+    "sepal_width": 3.43,
+    "petal_length": 5.25,
+    "petal_width": 1.82,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.16,
+    "sepal_width": 3.01,
+    "petal_length": 1.71,
+    "petal_width": 0.21,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.71,
+    "sepal_width": 3.32,
+    "petal_length": 5.98,
+    "petal_width": 1.67,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.26,
+    "sepal_width": 3.41,
+    "petal_length": 1.65,
+    "petal_width": 0.38,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.17,
+    "sepal_width": 3.19,
+    "petal_length": 5.08,
+    "petal_width": 1.23,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.2,
+    "sepal_width": 2.66,
+    "petal_length": 4.01,
+    "petal_width": 1.14,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.49,
+    "sepal_width": 3.01,
+    "petal_length": 5.72,
+    "petal_width": 2.25,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.11,
+    "sepal_width": 2.81,
+    "petal_length": 4.96,
+    "petal_width": 1.98,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.1,
+    "sepal_width": 2.87,
+    "petal_length": 4.92,
+    "petal_width": 1.91,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.43,
+    "sepal_width": 3.33,
+    "petal_length": 1.57,
+    "petal_width": 0.32,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.52,
+    "sepal_width": 2.81,
+    "petal_length": 1.32,
+    "petal_width": 0.41,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.14,
+    "sepal_width": 3.38,
+    "petal_length": 5.74,
+    "petal_width": 1.8,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.24,
+    "sepal_width": 2.72,
+    "petal_length": 5.77,
+    "petal_width": 2.3,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.73,
+    "sepal_width": 2.83,
+    "petal_length": 5.13,
+    "petal_width": 1.43,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.56,
+    "sepal_width": 3.4,
+    "petal_length": 1.21,
+    "petal_width": 0.27,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.62,
+    "sepal_width": 2.37,
+    "petal_length": 4.32,
+    "petal_width": 1.61,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.68,
+    "sepal_width": 2.43,
+    "petal_length": 4.29,
+    "petal_width": 1.56,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.3,
+    "sepal_width": 2.54,
+    "petal_length": 4.88,
+    "petal_width": 1.05,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.12,
+    "sepal_width": 3.24,
+    "petal_length": 1.37,
+    "petal_width": 0.28,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.27,
+    "sepal_width": 2.95,
+    "petal_length": 6.22,
+    "petal_width": 2.07,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.04,
+    "sepal_width": 3.43,
+    "petal_length": 1.67,
+    "petal_width": 0.29,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.15,
+    "sepal_width": 3.07,
+    "petal_length": 1.75,
+    "petal_width": 0.33,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.23,
+    "sepal_width": 3.31,
+    "petal_length": 6.9,
+    "petal_width": 2.07,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.47,
+    "sepal_width": 3.22,
+    "petal_length": 4.71,
+    "petal_width": 1.58,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.75,
+    "sepal_width": 2.44,
+    "petal_length": 6.38,
+    "petal_width": 1.81,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.39,
+    "sepal_width": 3.48,
+    "petal_length": 1.39,
+    "petal_width": 0.39,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.02,
+    "sepal_width": 3.74,
+    "petal_length": 5.09,
+    "petal_width": 2.18,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.18,
+    "sepal_width": 3.97,
+    "petal_length": 1.58,
+    "petal_width": 0.25,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.74,
+    "sepal_width": 3.03,
+    "petal_length": 4.51,
+    "petal_width": 1.54,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.38,
+    "sepal_width": 2.61,
+    "petal_length": 4.83,
+    "petal_width": 1.3,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.24,
+    "sepal_width": 2.98,
+    "petal_length": 1.53,
+    "petal_width": 0.19,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.74,
+    "sepal_width": 3.13,
+    "petal_length": 4.01,
+    "petal_width": 1.73,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.93,
+    "sepal_width": 2.36,
+    "petal_length": 5.92,
+    "petal_width": 1.95,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.47,
+    "sepal_width": 2.68,
+    "petal_length": 3.76,
+    "petal_width": 1.79,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.15,
+    "sepal_width": 3.54,
+    "petal_length": 1.5,
+    "petal_width": 0.32,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.84,
+    "sepal_width": 4.06,
+    "petal_length": 1.48,
+    "petal_width": 0.21,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.23,
+    "sepal_width": 3.3,
+    "petal_length": 4.4,
+    "petal_width": 1.42,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.62,
+    "sepal_width": 2.45,
+    "petal_length": 3.96,
+    "petal_width": 1.17,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.3,
+    "sepal_width": 2.52,
+    "petal_length": 3.82,
+    "petal_width": 1.28,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.26,
+    "sepal_width": 3.52,
+    "petal_length": 1.36,
+    "petal_width": 0.21,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.52,
+    "sepal_width": 2.44,
+    "petal_length": 6.19,
+    "petal_width": 2.12,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.73,
+    "sepal_width": 3.02,
+    "petal_length": 3.59,
+    "petal_width": 0.93,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.57,
+    "sepal_width": 2.33,
+    "petal_length": 5.71,
+    "petal_width": 1.61,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.4,
+    "sepal_width": 3.51,
+    "petal_length": 1.54,
+    "petal_width": 0.24,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.4,
+    "sepal_width": 3.0,
+    "petal_length": 6.11,
+    "petal_width": 2.7,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.48,
+    "sepal_width": 3.07,
+    "petal_length": 3.9,
+    "petal_width": 1.09,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.74,
+    "sepal_width": 2.91,
+    "petal_length": 5.15,
+    "petal_width": 2.66,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.23,
+    "sepal_width": 3.07,
+    "petal_length": 5.91,
+    "petal_width": 1.75,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.71,
+    "sepal_width": 2.58,
+    "petal_length": 4.4,
+    "petal_width": 1.22,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.8,
+    "sepal_width": 3.23,
+    "petal_length": 5.09,
+    "petal_width": 2.26,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.82,
+    "sepal_width": 3.84,
+    "petal_length": 1.62,
+    "petal_width": 0.26,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.87,
+    "sepal_width": 2.13,
+    "petal_length": 5.32,
+    "petal_width": 2.05,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.84,
+    "sepal_width": 3.7,
+    "petal_length": 1.56,
+    "petal_width": 0.46,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.42,
+    "sepal_width": 2.5,
+    "petal_length": 4.44,
+    "petal_width": 1.34,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.56,
+    "sepal_width": 3.13,
+    "petal_length": 5.7,
+    "petal_width": 1.6,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.1,
+    "sepal_width": 3.24,
+    "petal_length": 5.36,
+    "petal_width": 1.34,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.07,
+    "sepal_width": 2.68,
+    "petal_length": 4.77,
+    "petal_width": 1.26,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.69,
+    "sepal_width": 2.43,
+    "petal_length": 4.74,
+    "petal_width": 1.28,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.46,
+    "sepal_width": 2.9,
+    "petal_length": 1.44,
+    "petal_width": 0.22,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.81,
+    "sepal_width": 2.86,
+    "petal_length": 5.16,
+    "petal_width": 2.32,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.67,
+    "sepal_width": 3.12,
+    "petal_length": 5.52,
+    "petal_width": 1.88,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.63,
+    "sepal_width": 3.52,
+    "petal_length": 1.56,
+    "petal_width": 0.49,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.47,
+    "sepal_width": 3.31,
+    "petal_length": 4.19,
+    "petal_width": 1.43,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.99,
+    "sepal_width": 3.56,
+    "petal_length": 1.22,
+    "petal_width": 0.48,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.38,
+    "sepal_width": 2.88,
+    "petal_length": 5.95,
+    "petal_width": 1.95,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.97,
+    "sepal_width": 3.46,
+    "petal_length": 4.68,
+    "petal_width": 1.12,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.65,
+    "sepal_width": 2.89,
+    "petal_length": 1.48,
+    "petal_width": 0.23,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.16,
+    "sepal_width": 3.33,
+    "petal_length": 1.6,
+    "petal_width": 0.29,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.16,
+    "sepal_width": 2.49,
+    "petal_length": 4.56,
+    "petal_width": 1.24,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.77,
+    "sepal_width": 3.82,
+    "petal_length": 1.6,
+    "petal_width": 0.37,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.9,
+    "sepal_width": 2.57,
+    "petal_length": 5.92,
+    "petal_width": 2.09,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.41,
+    "sepal_width": 3.65,
+    "petal_length": 1.75,
+    "petal_width": 0.14,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.73,
+    "sepal_width": 2.76,
+    "petal_length": 4.18,
+    "petal_width": 1.17,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.65,
+    "sepal_width": 3.82,
+    "petal_length": 1.53,
+    "petal_width": 0.05,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.63,
+    "sepal_width": 2.52,
+    "petal_length": 4.35,
+    "petal_width": 1.5,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.97,
+    "sepal_width": 3.57,
+    "petal_length": 1.54,
+    "petal_width": 0.37,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.47,
+    "sepal_width": 2.64,
+    "petal_length": 4.84,
+    "petal_width": 1.21,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.98,
+    "sepal_width": 2.88,
+    "petal_length": 5.65,
+    "petal_width": 1.75,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.68,
+    "sepal_width": 3.4,
+    "petal_length": 1.58,
+    "petal_width": 0.31,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.4,
+    "sepal_width": 3.0,
+    "petal_length": 1.63,
+    "petal_width": 0.22,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.83,
+    "sepal_width": 3.23,
+    "petal_length": 4.3,
+    "petal_width": 2.09,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.78,
+    "sepal_width": 2.72,
+    "petal_length": 5.94,
+    "petal_width": 1.56,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.55,
+    "sepal_width": 3.58,
+    "petal_length": 1.4,
+    "petal_width": 0.34,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.15,
+    "sepal_width": 3.45,
+    "petal_length": 1.54,
+    "petal_width": 0.19,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.5,
+    "sepal_width": 3.29,
+    "petal_length": 5.78,
+    "petal_width": 2.11,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.0,
+    "sepal_width": 2.76,
+    "petal_length": 4.06,
+    "petal_width": 1.35,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.88,
+    "sepal_width": 2.96,
+    "petal_length": 4.27,
+    "petal_width": 1.35,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.57,
+    "sepal_width": 3.72,
+    "petal_length": 1.67,
+    "petal_width": 0.25,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.54,
+    "sepal_width": 2.73,
+    "petal_length": 5.11,
+    "petal_width": 1.25,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.58,
+    "sepal_width": 3.04,
+    "petal_length": 1.85,
+    "petal_width": 0.35,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.73,
+    "sepal_width": 3.45,
+    "petal_length": 1.5,
+    "petal_width": 0.44,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.69,
+    "sepal_width": 2.86,
+    "petal_length": 5.26,
+    "petal_width": 1.73,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.18,
+    "sepal_width": 3.35,
+    "petal_length": 6.22,
+    "petal_width": 2.08,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.8,
+    "sepal_width": 2.83,
+    "petal_length": 5.14,
+    "petal_width": 1.92,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.06,
+    "sepal_width": 3.58,
+    "petal_length": 5.93,
+    "petal_width": 1.85,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.28,
+    "sepal_width": 3.09,
+    "petal_length": 1.51,
+    "petal_width": 0.34,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.14,
+    "sepal_width": 3.21,
+    "petal_length": 1.8,
+    "petal_width": 0.38,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.81,
+    "sepal_width": 3.7,
+    "petal_length": 1.4,
+    "petal_width": 0.29,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.36,
+    "sepal_width": 2.85,
+    "petal_length": 5.6,
+    "petal_width": 1.66,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.48,
+    "sepal_width": 2.27,
+    "petal_length": 3.56,
+    "petal_width": 1.32,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.22,
+    "sepal_width": 3.51,
+    "petal_length": 1.46,
+    "petal_width": 0.53,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.5,
+    "sepal_width": 2.77,
+    "petal_length": 6.07,
+    "petal_width": 2.1,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.74,
+    "sepal_width": 3.2,
+    "petal_length": 4.22,
+    "petal_width": 2.54,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.13,
+    "sepal_width": 3.52,
+    "petal_length": 1.54,
+    "petal_width": 0.36,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.41,
+    "sepal_width": 3.25,
+    "petal_length": 1.58,
+    "petal_width": 0.13,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.1,
+    "sepal_width": 3.1,
+    "petal_length": 3.64,
+    "petal_width": 1.65,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.12,
+    "sepal_width": 3.32,
+    "petal_length": 1.7,
+    "petal_width": 0.37,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.57,
+    "sepal_width": 2.81,
+    "petal_length": 5.39,
+    "petal_width": 1.52,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.5,
+    "sepal_width": 2.15,
+    "petal_length": 4.82,
+    "petal_width": 2.03,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.95,
+    "sepal_width": 2.67,
+    "petal_length": 5.12,
+    "petal_width": 1.88,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.63,
+    "sepal_width": 2.94,
+    "petal_length": 3.73,
+    "petal_width": 1.42,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 7.75,
+    "sepal_width": 3.47,
+    "petal_length": 5.06,
+    "petal_width": 1.68,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.75,
+    "sepal_width": 2.96,
+    "petal_length": 4.98,
+    "petal_width": 1.41,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.26,
+    "sepal_width": 3.01,
+    "petal_length": 4.22,
+    "petal_width": 1.27,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.43,
+    "sepal_width": 4.2,
+    "petal_length": 1.48,
+    "petal_width": 0.3,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.61,
+    "sepal_width": 2.74,
+    "petal_length": 3.55,
+    "petal_width": 1.24,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.91,
+    "sepal_width": 3.05,
+    "petal_length": 6.58,
+    "petal_width": 2.22,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.75,
+    "sepal_width": 3.46,
+    "petal_length": 1.56,
+    "petal_width": 0.5,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.06,
+    "sepal_width": 2.18,
+    "petal_length": 4.82,
+    "petal_width": 1.14,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.82,
+    "sepal_width": 3.96,
+    "petal_length": 1.75,
+    "petal_width": 0.31,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.17,
+    "sepal_width": 3.72,
+    "petal_length": 1.41,
+    "petal_width": 0.46,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.29,
+    "sepal_width": 2.89,
+    "petal_length": 5.75,
+    "petal_width": 2.1,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.87,
+    "sepal_width": 3.23,
+    "petal_length": 1.69,
+    "petal_width": 0.14,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.94,
+    "sepal_width": 2.71,
+    "petal_length": 6.25,
+    "petal_width": 2.19,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.04,
+    "sepal_width": 3.33,
+    "petal_length": 1.71,
+    "petal_width": 0.33,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.35,
+    "sepal_width": 3.22,
+    "petal_length": 5.8,
+    "petal_width": 2.09,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.78,
+    "sepal_width": 3.06,
+    "petal_length": 6.05,
+    "petal_width": 2.34,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.35,
+    "sepal_width": 2.9,
+    "petal_length": 4.48,
+    "petal_width": 1.22,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.66,
+    "sepal_width": 3.36,
+    "petal_length": 5.66,
+    "petal_width": 1.85,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.16,
+    "sepal_width": 3.39,
+    "petal_length": 1.64,
+    "petal_width": 0.15,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.0,
+    "sepal_width": 3.74,
+    "petal_length": 1.43,
+    "petal_width": 0.21,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.85,
+    "sepal_width": 3.15,
+    "petal_length": 1.43,
+    "petal_width": 0.27,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.65,
+    "sepal_width": 2.84,
+    "petal_length": 5.64,
+    "petal_width": 1.78,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.87,
+    "sepal_width": 3.08,
+    "petal_length": 1.43,
+    "petal_width": 0.19,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.54,
+    "sepal_width": 2.85,
+    "petal_length": 1.82,
+    "petal_width": 0.39,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.68,
+    "sepal_width": 3.78,
+    "petal_length": 1.43,
+    "petal_width": 0.35,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.77,
+    "sepal_width": 3.01,
+    "petal_length": 1.41,
+    "petal_width": 0.22,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.71,
+    "sepal_width": 3.02,
+    "petal_length": 1.57,
+    "petal_width": 0.53,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.13,
+    "sepal_width": 2.63,
+    "petal_length": 3.9,
+    "petal_width": 1.07,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.7,
+    "sepal_width": 3.7,
+    "petal_length": 6.38,
+    "petal_width": 1.77,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.14,
+    "sepal_width": 3.86,
+    "petal_length": 1.44,
+    "petal_width": 0.25,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.13,
+    "sepal_width": 3.16,
+    "petal_length": 5.35,
+    "petal_width": 0.88,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.75,
+    "sepal_width": 3.13,
+    "petal_length": 3.54,
+    "petal_width": 1.29,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.99,
+    "sepal_width": 3.41,
+    "petal_length": 4.89,
+    "petal_width": 1.85,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.11,
+    "sepal_width": 3.29,
+    "petal_length": 1.47,
+    "petal_width": 0.19,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.95,
+    "sepal_width": 3.88,
+    "petal_length": 1.51,
+    "petal_width": 0.37,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.98,
+    "sepal_width": 3.12,
+    "petal_length": 4.15,
+    "petal_width": 1.5,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.66,
+    "sepal_width": 2.82,
+    "petal_length": 6.02,
+    "petal_width": 2.14,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.15,
+    "sepal_width": 2.88,
+    "petal_length": 4.03,
+    "petal_width": 1.32,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.93,
+    "sepal_width": 3.87,
+    "petal_length": 1.39,
+    "petal_width": 0.15,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.3,
+    "sepal_width": 2.66,
+    "petal_length": 5.24,
+    "petal_width": 2.0,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.5,
+    "sepal_width": 3.54,
+    "petal_length": 1.46,
+    "petal_width": 0.33,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 4.83,
+    "sepal_width": 3.01,
+    "petal_length": 5.3,
+    "petal_width": 2.1,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.08,
+    "sepal_width": 3.01,
+    "petal_length": 1.55,
+    "petal_width": 0.18,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 6.66,
+    "sepal_width": 3.02,
+    "petal_length": 5.03,
+    "petal_width": 1.29,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.44,
+    "sepal_width": 2.22,
+    "petal_length": 5.24,
+    "petal_width": 1.29,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.68,
+    "sepal_width": 2.57,
+    "petal_length": 4.21,
+    "petal_width": 1.32,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 6.84,
+    "sepal_width": 3.26,
+    "petal_length": 6.58,
+    "petal_width": 1.89,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.85,
+    "sepal_width": 2.67,
+    "petal_length": 5.56,
+    "petal_width": 1.68,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.22,
+    "sepal_width": 3.05,
+    "petal_length": 6.16,
+    "petal_width": 2.1,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 6.92,
+    "sepal_width": 3.13,
+    "petal_length": 5.53,
+    "petal_width": 1.88,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.55,
+    "sepal_width": 2.49,
+    "petal_length": 6.07,
+    "petal_width": 1.57,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 4.99,
+    "sepal_width": 2.9,
+    "petal_length": 1.31,
+    "petal_width": 0.36,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 7.17,
+    "sepal_width": 2.97,
+    "petal_length": 6.22,
+    "petal_width": 1.95,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 7.25,
+    "sepal_width": 2.65,
+    "petal_length": 5.87,
+    "petal_width": 2.46,
+    "class": 2,
+    "class_name": "virginica"
+  },
+  {
+    "sepal_length": 5.6,
+    "sepal_width": 2.82,
+    "petal_length": 4.19,
+    "petal_width": 1.44,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 5.57,
+    "sepal_width": 3.79,
+    "petal_length": 1.63,
+    "petal_width": 0.35,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.3,
+    "sepal_width": 2.39,
+    "petal_length": 5.08,
+    "petal_width": 1.06,
+    "class": 1,
+    "class_name": "versicolor"
+  },
+  {
+    "sepal_length": 4.75,
+    "sepal_width": 3.54,
+    "petal_length": 1.79,
+    "petal_width": 0.3,
+    "class": 0,
+    "class_name": "setosa"
+  },
+  {
+    "sepal_length": 5.33,
+    "sepal_width": 2.68,
+    "petal_length": 5.15,
+    "petal_width": 0.94,
+    "class": 1,
+    "class_name": "versicolor"
+  }
+]

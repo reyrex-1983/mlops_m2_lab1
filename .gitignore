@@ -50,7 +50,6 @@ models/*.pkl
 models/*.joblib
 
 # Data
-data/*
 !data/.gitkeep
 
 # Artifacts
